@@ -1,0 +1,44 @@
+<!-- <ion-header>
+  <ion-toolbar>
+    <ion-title>login</ion-title>
+  </ion-toolbar>
+</ion-header> -->
+
+<ion-content>
+<img src="../../../assets/icons/Banner Curso Escuela Virtual Yo Trabajo por Colombia-06.jpeg" style="padding: 15%;"/>
+
+<form [formGroup]="form" form-style (ngSubmit)="logForm()"  class="content"> 
+
+  <ion-card style="background-color: white !important; border-radius: 25px; box-shadow: 5px 5px 5px rgb(155, 154, 154) !important;">
+    <div style="padding: 5%;">
+      <ion-item lines="none" class="box-item">
+        <ion-label   position="floating">Número de identificación</ion-label>
+        <ion-input type="text" name="username" id="username" formControlName="username" autocapitalize="none"></ion-input>
+        <ion-icon name="person" slot="start"></ion-icon>
+      </ion-item>
+
+      <ion-item lines="none" class="box-item">
+        <ion-label position="floating">Contraseña</ion-label>
+        <ion-input type="password" name="password" id="password" formControlName="password" autocapitalize="none"></ion-input>
+        <ion-icon name="eye" slot="end"></ion-icon>
+        <ion-icon name="lock-closed-outline" slot="start"></ion-icon>
+      </ion-item>
+      
+      <ion-col col-12 >
+        <div style="float: right !important; margin-top: 10%;">
+        <ion-item lines="none">
+          <ion-label slot="end">Recordar contraseña</ion-label>   
+          <ion-checkbox  color="primary" mode="ios"  ></ion-checkbox>
+        </ion-item>
+      </div>
+      </ion-col> 
+    </div>
+  </ion-card>
+</form>
+
+<div class="bottom-aligment">
+  <ion-button type="submit" [disabled]="!form.valid" class="center-button" text-center>Iniciar Sesion</ion-button>
+  <ion-label style="color: #363f4d;">¿No tienes una cuenta? <a href="#">Registrate</a></ion-label>
+</div>
+
+</ion-content>
