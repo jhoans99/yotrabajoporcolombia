@@ -1,0 +1,64 @@
+<ion-header [translucent]="true" >
+  <ion-toolbar class="new-background-color">
+    <ion-item class="new-background-color">
+      <img src="../../assets/icons/yo-trabajo-blanco.png" style="display:inline-block" height="80rem" width="120rem"/>  
+      <ion-fab-button size="small" class="ion-fab" slot="end" ><ion-icon name="search"></ion-icon></ion-fab-button>
+    </ion-item>
+  </ion-toolbar>
+</ion-header>
+
+
+<ion-content>
+
+  <ion-card>
+    <ion-item> 
+      <img src="../../../assets/icons/man.png" slot="start"  height="40vh" width="40vw"/>
+      <ion-label>Bienvenido <br> {{nameUser}} </ion-label>
+    </ion-item>
+  </ion-card>
+
+  <ion-label class="ion-padding">OPCIONES</ion-label>
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+        <ion-card>
+          <ion-item> 
+            <img src="../../../assets/icons/user_1.png" slot="start"  height="40vh" width="40vw"/>
+            <ion-label>Mis datos <br> Revisa y modifica tus datos personales</ion-label>
+          </ion-item>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <ion-card>
+          <ion-item> 
+            <img src="../../../assets/icons/padlock.png" slot="start"  height="40vh" width="40vw"/>
+            <ion-label>Seguridad <br> Manten seguro tus datos</ion-label>
+          </ion-item>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+    <ion-row *ngIf="!showInventary">
+      <ion-col>
+        <ion-card>
+          <ion-item> 
+            <img src="../../../assets/icons/gps.png" slot="start"  height="40vh" width="40vw"/>
+            <ion-label>Direcciones <br> Manten informado a nuestros vendedores cons tus puntos de entrega</ion-label>
+          </ion-item>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+    <ion-row *ngIf="showInventary">
+      <ion-col>
+        <ion-card routerLink="/upload-new-product">
+          <ion-item > 
+            <img src="../../../assets/icons/inventario.png" slot="start"  height="40vh" width="40vw"/>
+            <ion-label>Inventario <br> Manten al día tus productos y mejora tus ventas</ion-label>
+          </ion-item>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+</ion-content>

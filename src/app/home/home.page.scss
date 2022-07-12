@@ -8,6 +8,17 @@
   transform: translateY(-50%);
 }
 
+.new-background-color{
+
+  //--background:url(../../assets/icons/cenefa.png)  no-repeat 100% center/cover;
+  
+  --background: #153f72 !important;
+}
+
+.background-color-card{
+  --background: #6db52d !important;
+}
+
 #container strong {
   font-size: 20px;
   line-height: 26px;

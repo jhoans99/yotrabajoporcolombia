@@ -1,0 +1,24 @@
+<ion-header [translucent]="true" >
+  <ion-toolbar class="new-background-color">
+    <ion-item class="new-background-color">
+      <img src="../../assets/icons/yo-trabajo-blanco.png" style="display:inline-block" height="80rem" width="120rem"/>  
+      <ion-fab-button size="small" class="ion-fab" slot="end" ><ion-icon name="search"></ion-icon></ion-fab-button>
+      <ion-fab-button size="small" class="ion-fab" *ngIf="showLogin" routerLink="/login" slot="end"> <ion-icon name="person"></ion-icon></ion-fab-button>
+      <ion-fab-button size="small"  *ngIf="!showLogin" routerLink="/profile" slot="end"> <img [src]="myCustomIcon" /></ion-fab-button>
+    </ion-item>
+  </ion-toolbar>
+</ion-header>
+
+
+<ion-content class="ion-padding">
+  <ion-list>
+    <ion-item *ngFor="let item of listHistories" lines="none">
+      <img src="../../../assets/icons/{{item.imagen}}.png" height="50rem" width="40rem" alt="" slot="start"/>
+      <div>
+        <ion-title class="ion-no-padding">{{item.nombre}}</ion-title>
+        <ion-label>{{item.ciudad}}</ion-label>
+        <p>{{item.historia}}</p>
+      </div>
+    </ion-item>
+  </ion-list>
+</ion-content>

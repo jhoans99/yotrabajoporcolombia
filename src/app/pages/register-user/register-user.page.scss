@@ -1,0 +1,45 @@
+.box-item{
+    border: 0.5px solid #363f4d !important;
+    border-radius: 1rem !important;
+    margin-top: 5% !important;
+}
+
+ion-label{
+    color: #363f4d !important;
+}
+
+ion-input {
+    color: #363f4d ;
+    vertical-align: middle !important;
+}
+
+ion-icon{
+    color: #363f4d !important;
+    vertical-align: middle !important;
+}
+
+.center-button{
+    position: absolute;
+    width: 60%;
+    display: flex !important;
+    justify-content: center !important;
+    --background:  #363f4d !important;
+    text-align: center;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    transform: translateX(-50%);
+    bottom: 2rem;
+}
+
+.remember-password{
+    --background: transparent !important;
+    padding: 0 !important;
+}
+
+ion-checkbox{
+    --checkmark-color: #153f72 !important;
+    --background-checked: white !important;
+    --border-color: #363f4d !important;
+    --border-color-checked: #153f72 !important;
+}

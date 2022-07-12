@@ -1,0 +1,31 @@
+<ion-header [translucent]="true" >
+  <ion-toolbar class="new-background-color">
+    <ion-item class="new-background-color">
+      <img src="../../assets/icons/yo-trabajo-blanco.png" style="display:inline-block" height="80rem" width="120rem"/>  
+      <ion-fab-button size="small" class="ion-fab" slot="end" ><ion-icon name="search"></ion-icon></ion-fab-button>
+      <ion-fab-button size="small" class="ion-fab" *ngIf="showLogin" routerLink="/login" slot="end"> <ion-icon name="person"></ion-icon></ion-fab-button>
+      <ion-fab-button size="small"  *ngIf="!showLogin" routerLink="/profile" slot="end"> <img [src]="myCustomIcon" /></ion-fab-button>
+    </ion-item>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-slides  style="height: 40%; width: 100% !important; min-width: 100% !important;" >
+    <ion-slide *ngFor="let item of listProducts"  (click)="goToDetailProduct(item)">
+    <ion-card style="background: white !important;">
+      <ion-card-content>
+        <ion-slides>
+          <ion-slide *ngFor="let itemImg of item.imagenes">
+            <img src="http://{{itemImg}}"  style="max-height: 15rem; width: 100%; display: block;"/>
+          </ion-slide>
+        </ion-slides>
+        <div>
+          <ion-row class="ion-padding">
+            <ion-label style="font-weight: bold;">${{item.precio}}</ion-label>
+          </ion-row>
+        </div>
+      </ion-card-content>
+    </ion-card>
+  </ion-slide>
+</ion-slides>
+</ion-content>

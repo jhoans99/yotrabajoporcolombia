@@ -1,0 +1,5636 @@
+[
+ {
+  "Codigo_Ciudad": 5002,
+  "Nombre_Ciudad": "ABEJORRAL",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 54003,
+  "Nombre_Ciudad": "ABREGO",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 5004,
+  "Nombre_Ciudad": "ABRIAQUÍ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 50006,
+  "Nombre_Ciudad": "ACACÍAS",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 27006,
+  "Nombre_Ciudad": "ACANDÍ",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 41006,
+  "Nombre_Ciudad": "ACEVEDO",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 13006,
+  "Nombre_Ciudad": "ACHÍ",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 41013,
+  "Nombre_Ciudad": "AGRADO",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 25001,
+  "Nombre_Ciudad": "AGUA DE DIOS",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 20011,
+  "Nombre_Ciudad": "AGUACHICA",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 68013,
+  "Nombre_Ciudad": "AGUADA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 17013,
+  "Nombre_Ciudad": "AGUADAS",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 85010,
+  "Nombre_Ciudad": "AGUAZUL",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 20013,
+  "Nombre_Ciudad": "AGUSTÍN CODAZZI",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 41016,
+  "Nombre_Ciudad": "AIPE",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 25019,
+  "Nombre_Ciudad": "ALBÁN",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 52019,
+  "Nombre_Ciudad": "ALBÁN",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 18029,
+  "Nombre_Ciudad": "ALBANIA",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 44035,
+  "Nombre_Ciudad": "ALBANIA",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 68020,
+  "Nombre_Ciudad": "ALBANIA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 76020,
+  "Nombre_Ciudad": "ALCALÁ",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 52022,
+  "Nombre_Ciudad": "ALDANA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 5021,
+  "Nombre_Ciudad": "ALEJANDRÍA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 47030,
+  "Nombre_Ciudad": "ALGARROBO",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 41020,
+  "Nombre_Ciudad": "ALGECIRAS",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 19022,
+  "Nombre_Ciudad": "ALMAGUER",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 15022,
+  "Nombre_Ciudad": "ALMEIDA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 73024,
+  "Nombre_Ciudad": "ALPUJARRA",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 41026,
+  "Nombre_Ciudad": "ALTAMIRA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 27025,
+  "Nombre_Ciudad": "ALTO BAUDO",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 13030,
+  "Nombre_Ciudad": "ALTOS DEL ROSARIO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 73026,
+  "Nombre_Ciudad": "ALVARADO",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 5030,
+  "Nombre_Ciudad": "AMAGÁ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5031,
+  "Nombre_Ciudad": "AMALFI",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 73030,
+  "Nombre_Ciudad": "AMBALEMA",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 25035,
+  "Nombre_Ciudad": "ANAPOIMA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 52036,
+  "Nombre_Ciudad": "ANCUYÁ",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 76036,
+  "Nombre_Ciudad": "ANDALUCÍA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 5034,
+  "Nombre_Ciudad": "ANDES",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5036,
+  "Nombre_Ciudad": "ANGELÓPOLIS",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5038,
+  "Nombre_Ciudad": "ANGOSTURA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25040,
+  "Nombre_Ciudad": "ANOLAIMA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 5040,
+  "Nombre_Ciudad": "ANORÍ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 17042,
+  "Nombre_Ciudad": "ANSERMA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 76041,
+  "Nombre_Ciudad": "ANSERMANUEVO",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 5044,
+  "Nombre_Ciudad": "ANZA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 73043,
+  "Nombre_Ciudad": "ANZOÁTEGUI",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 5045,
+  "Nombre_Ciudad": "APARTADÓ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 66045,
+  "Nombre_Ciudad": "APÍA",
+  "Departamento": "Risaralda"
+ },
+ {
+  "Codigo_Ciudad": 25599,
+  "Nombre_Ciudad": "APULO",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15047,
+  "Nombre_Ciudad": "AQUITANIA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 47053,
+  "Nombre_Ciudad": "ARACATACA",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 17050,
+  "Nombre_Ciudad": "ARANZAZU",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 68051,
+  "Nombre_Ciudad": "ARATOCA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 81001,
+  "Nombre_Ciudad": "ARAUCA",
+  "Departamento": "Arauca"
+ },
+ {
+  "Codigo_Ciudad": 81065,
+  "Nombre_Ciudad": "ARAUQUITA",
+  "Departamento": "Arauca"
+ },
+ {
+  "Codigo_Ciudad": 25053,
+  "Nombre_Ciudad": "ARBELÁEZ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 52051,
+  "Nombre_Ciudad": "ARBOLEDA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 54051,
+  "Nombre_Ciudad": "ARBOLEDAS",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 5051,
+  "Nombre_Ciudad": "ARBOLETES",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15051,
+  "Nombre_Ciudad": "ARCABUCO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 13042,
+  "Nombre_Ciudad": "ARENAL",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 5055,
+  "Nombre_Ciudad": "ARGELIA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 19050,
+  "Nombre_Ciudad": "ARGELIA",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 76054,
+  "Nombre_Ciudad": "ARGELIA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 47058,
+  "Nombre_Ciudad": "ARIGUANÍ",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 13052,
+  "Nombre_Ciudad": "ARJONA",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 5059,
+  "Nombre_Ciudad": "ARMENIA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 63001,
+  "Nombre_Ciudad": "ARMENIA",
+  "Departamento": "Quindio"
+ },
+ {
+  "Codigo_Ciudad": 73055,
+  "Nombre_Ciudad": "ARMERO",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 13062,
+  "Nombre_Ciudad": "ARROYOHONDO",
+  "Departamento": "Bolívar"
+ },
+  
+ {
+  "Codigo_Ciudad": 20032,
+  "Nombre_Ciudad": "ASTREA",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 73067,
+  "Nombre_Ciudad": "ATACO",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 27050,
+  "Nombre_Ciudad": "ATRATO",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 23068,
+  "Nombre_Ciudad": "AYAPEL",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 27073,
+  "Nombre_Ciudad": "BAGADÓ",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 27075,
+  "Nombre_Ciudad": "BAHÍA SOLANO",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 27077,
+  "Nombre_Ciudad": "BAJO BAUDÓ",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 19075,
+  "Nombre_Ciudad": "BALBOA",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 66075,
+  "Nombre_Ciudad": "BALBOA",
+  "Departamento": "Risaralda"
+ },
+ {
+  "Codigo_Ciudad": 8078,
+  "Nombre_Ciudad": "BARANOA",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 41078,
+  "Nombre_Ciudad": "BARAYA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 52079,
+  "Nombre_Ciudad": "BARBACOAS",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 5079,
+  "Nombre_Ciudad": "BARBOSA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 68077,
+  "Nombre_Ciudad": "BARBOSA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 68079,
+  "Nombre_Ciudad": "BARICHARA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 50110,
+  "Nombre_Ciudad": "BARRANCA DE UPÍA",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 68081,
+  "Nombre_Ciudad": "BARRANCABERMEJA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 44078,
+  "Nombre_Ciudad": "BARRANCAS",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 13074,
+  "Nombre_Ciudad": "BARRANCO DE LOBA",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 94343,
+  "Nombre_Ciudad": "BARRANCO MINAS",
+  "Departamento": "Guainía"
+ },
+ {
+  "Codigo_Ciudad": 8001,
+  "Nombre_Ciudad": "BARRANQUILLA",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 20045,
+  "Nombre_Ciudad": "BECERRIL",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 17088,
+  "Nombre_Ciudad": "BELALCÁZAR",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 15087,
+  "Nombre_Ciudad": "BELÉN",
+  "Departamento": "Boyacá"
+ },
+  
+ {
+  "Codigo_Ciudad": 52083,
+  "Nombre_Ciudad": "BELÉN",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 27086,
+  "Nombre_Ciudad": "BELÉN DE BAJIRÁ",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 18094,
+  "Nombre_Ciudad": "BELÉN DE LOS ANDAQUIES",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 66088,
+  "Nombre_Ciudad": "BELÉN DE UMBRÍA",
+  "Departamento": "Risaralda"
+ },
+ {
+  "Codigo_Ciudad": 5088,
+  "Nombre_Ciudad": "BELLO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5086,
+  "Nombre_Ciudad": "BELMIRA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25086,
+  "Nombre_Ciudad": "BELTRÁN",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15090,
+  "Nombre_Ciudad": "BERBEO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 5091,
+  "Nombre_Ciudad": "BETANIA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15092,
+  "Nombre_Ciudad": "BETÉITIVA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 5093,
+  "Nombre_Ciudad": "BETULIA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 68092,
+  "Nombre_Ciudad": "BETULIA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 25095,
+  "Nombre_Ciudad": "BITUIMA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15097,
+  "Nombre_Ciudad": "BOAVITA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 54099,
+  "Nombre_Ciudad": "BOCHALEMA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 11001,
+  "Nombre_Ciudad": "BOGOTÁ",
+  "Departamento": "Bogotá D.C"
+ },
+ {
+  "Codigo_Ciudad": 25099,
+  "Nombre_Ciudad": "BOJACÁ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 27099,
+  "Nombre_Ciudad": "BOJAYA",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 19100,
+  "Nombre_Ciudad": "BOLÍVAR",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 68101,
+  "Nombre_Ciudad": "BOLÍVAR",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 76100,
+  "Nombre_Ciudad": "BOLÍVAR",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 20060,
+  "Nombre_Ciudad": "BOSCONIA",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 15104,
+  "Nombre_Ciudad": "BOYACÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 5107,
+  "Nombre_Ciudad": "BRICEÑO",
+  "Departamento": "Antioquia"
+ },
+  
+ {
+  "Codigo_Ciudad": 15106,
+  "Nombre_Ciudad": "BRICEÑO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 68001,
+  "Nombre_Ciudad": "BUCARAMANGA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 54109,
+  "Nombre_Ciudad": "BUCARASICA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 76109,
+  "Nombre_Ciudad": "BUENAVENTURA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 15109,
+  "Nombre_Ciudad": "BUENAVISTA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 23079,
+  "Nombre_Ciudad": "BUENAVISTA",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 63111,
+  "Nombre_Ciudad": "BUENAVISTA",
+  "Departamento": "Quindio"
+ },
+ {
+  "Codigo_Ciudad": 70110,
+  "Nombre_Ciudad": "BUENAVISTA",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 19110,
+  "Nombre_Ciudad": "BUENOS AIRES",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 52110,
+  "Nombre_Ciudad": "BUESACO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 76113,
+  "Nombre_Ciudad": "BUGALAGRANDE",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 5113,
+  "Nombre_Ciudad": "BURITICÁ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15114,
+  "Nombre_Ciudad": "BUSBANZÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25120,
+  "Nombre_Ciudad": "CABRERA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 68121,
+  "Nombre_Ciudad": "CABRERA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 50124,
+  "Nombre_Ciudad": "CABUYARO",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 94886,
+  "Nombre_Ciudad": "CACAHUAL",
+  "Departamento": "Guainía"
+ },
+ {
+  "Codigo_Ciudad": 5120,
+  "Nombre_Ciudad": "CÁCERES",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25123,
+  "Nombre_Ciudad": "CACHIPAY",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 54128,
+  "Nombre_Ciudad": "CACHIRÁ",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 54125,
+  "Nombre_Ciudad": "CÁCOTA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 5125,
+  "Nombre_Ciudad": "CAICEDO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 76122,
+  "Nombre_Ciudad": "CAICEDONIA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 70124,
+  "Nombre_Ciudad": "CAIMITO",
+  "Departamento": "Sucre"
+ },
+  
+ {
+  "Codigo_Ciudad": 73124,
+  "Nombre_Ciudad": "CAJAMARCA",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 19130,
+  "Nombre_Ciudad": "CAJIBÍO",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 25126,
+  "Nombre_Ciudad": "CAJICÁ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 13140,
+  "Nombre_Ciudad": "CALAMAR",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 95015,
+  "Nombre_Ciudad": "CALAMAR",
+  "Departamento": "Guaviare"
+ },
+ {
+  "Codigo_Ciudad": 63130,
+  "Nombre_Ciudad": "CALARCA",
+  "Departamento": "Quindio"
+ },
+ {
+  "Codigo_Ciudad": 5129,
+  "Nombre_Ciudad": "CALDAS",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15131,
+  "Nombre_Ciudad": "CALDAS",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 19137,
+  "Nombre_Ciudad": "CALDONO",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 76001,
+  "Nombre_Ciudad": "CALI",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 68132,
+  "Nombre_Ciudad": "CALIFORNIA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 76126,
+  "Nombre_Ciudad": "CALIMA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 19142,
+  "Nombre_Ciudad": "CALOTO",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 5134,
+  "Nombre_Ciudad": "CAMPAMENTO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 8137,
+  "Nombre_Ciudad": "CAMPO DE LA CRUZ",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 41132,
+  "Nombre_Ciudad": "CAMPOALEGRE",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 15135,
+  "Nombre_Ciudad": "CAMPOHERMOSO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 23090,
+  "Nombre_Ciudad": "CANALETE",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 8141,
+  "Nombre_Ciudad": "CANDELARIA",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 76130,
+  "Nombre_Ciudad": "CANDELARIA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 13160,
+  "Nombre_Ciudad": "CANTAGALLO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 5138,
+  "Nombre_Ciudad": "CAÑASGORDAS",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25148,
+  "Nombre_Ciudad": "CAPARRAPÍ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 68147,
+  "Nombre_Ciudad": "CAPITANEJO",
+  "Departamento": "Santander"
+ },
+  
+ {
+  "Codigo_Ciudad": 25151,
+  "Nombre_Ciudad": "CAQUEZA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 5142,
+  "Nombre_Ciudad": "CARACOLÍ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5145,
+  "Nombre_Ciudad": "CARAMANTA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 68152,
+  "Nombre_Ciudad": "CARCASÍ",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 5147,
+  "Nombre_Ciudad": "CAREPA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 73148,
+  "Nombre_Ciudad": "CARMEN DE APICALÁ",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 25154,
+  "Nombre_Ciudad": "CARMEN DE CARUPA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 27150,
+  "Nombre_Ciudad": "CARMEN DEL DARIEN",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 5150,
+  "Nombre_Ciudad": "CAROLINA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 13001,
+  "Nombre_Ciudad": "CARTAGENA",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 18150,
+  "Nombre_Ciudad": "CARTAGENA DEL CHAIRÁ",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 76147,
+  "Nombre_Ciudad": "CARTAGO",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 97161,
+  "Nombre_Ciudad": "CARURU",
+  "Departamento": "Vaupés"
+ },
+ {
+  "Codigo_Ciudad": 73152,
+  "Nombre_Ciudad": "CASABIANCA",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 50150,
+  "Nombre_Ciudad": "CASTILLA LA NUEVA",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 5154,
+  "Nombre_Ciudad": "CAUCASIA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 68160,
+  "Nombre_Ciudad": "CEPITÁ",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 23162,
+  "Nombre_Ciudad": "CERETÉ",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 15162,
+  "Nombre_Ciudad": "CERINZA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 68162,
+  "Nombre_Ciudad": "CERRITO",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 47161,
+  "Nombre_Ciudad": "CERRO SAN ANTONIO",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 27160,
+  "Nombre_Ciudad": "CÉRTEGUI",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 52240,
+  "Nombre_Ciudad": "CHACHAGÜÍ",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 25168,
+  "Nombre_Ciudad": "CHAGUANÍ",
+  "Departamento": "Cundinamarca"
+ },
+  
+ {
+  "Codigo_Ciudad": 70230,
+  "Nombre_Ciudad": "CHALÁN",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 85015,
+  "Nombre_Ciudad": "CHAMEZA",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 73168,
+  "Nombre_Ciudad": "CHAPARRAL",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 68167,
+  "Nombre_Ciudad": "CHARALÁ",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 68169,
+  "Nombre_Ciudad": "CHARTA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 25175,
+  "Nombre_Ciudad": "CHÍA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 47170,
+  "Nombre_Ciudad": "CHIBOLO",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 5172,
+  "Nombre_Ciudad": "CHIGORODÓ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 68176,
+  "Nombre_Ciudad": "CHIMA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 23168,
+  "Nombre_Ciudad": "CHIMÁ",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 20175,
+  "Nombre_Ciudad": "CHIMICHAGUA",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 54172,
+  "Nombre_Ciudad": "CHINÁCOTA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 15172,
+  "Nombre_Ciudad": "CHINAVITA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 17174,
+  "Nombre_Ciudad": "CHINCHINÁ",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 23182,
+  "Nombre_Ciudad": "CHINÚ",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 25178,
+  "Nombre_Ciudad": "CHIPAQUE",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 68179,
+  "Nombre_Ciudad": "CHIPATÁ",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 15176,
+  "Nombre_Ciudad": "CHIQUINQUIRÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15232,
+  "Nombre_Ciudad": "CHÍQUIZA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 20178,
+  "Nombre_Ciudad": "CHIRIGUANÁ",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 15180,
+  "Nombre_Ciudad": "CHISCAS",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15183,
+  "Nombre_Ciudad": "CHITA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 54174,
+  "Nombre_Ciudad": "CHITAGÁ",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 15185,
+  "Nombre_Ciudad": "CHITARAQUE",
+  "Departamento": "Boyacá"
+ },
+  
+ {
+  "Codigo_Ciudad": 15187,
+  "Nombre_Ciudad": "CHIVATÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15236,
+  "Nombre_Ciudad": "CHIVOR",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25181,
+  "Nombre_Ciudad": "CHOACHÍ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25183,
+  "Nombre_Ciudad": "CHOCONTÁ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 13188,
+  "Nombre_Ciudad": "CICUCO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 47189,
+  "Nombre_Ciudad": "CIÉNAGA",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 23189,
+  "Nombre_Ciudad": "CIÉNAGA DE ORO",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 15189,
+  "Nombre_Ciudad": "CIÉNEGA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 68190,
+  "Nombre_Ciudad": "CIMITARRA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 63190,
+  "Nombre_Ciudad": "CIRCASIA",
+  "Departamento": "Quindio"
+ },
+ {
+  "Codigo_Ciudad": 5190,
+  "Nombre_Ciudad": "CISNEROS",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5101,
+  "Nombre_Ciudad": "CIUDAD BOLÍVAR",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 13222,
+  "Nombre_Ciudad": "CLEMENCIA",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 5197,
+  "Nombre_Ciudad": "COCORNÁ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 73200,
+  "Nombre_Ciudad": "COELLO",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 25200,
+  "Nombre_Ciudad": "COGUA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 41206,
+  "Nombre_Ciudad": "COLOMBIA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 52203,
+  "Nombre_Ciudad": "COLÓN",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 86219,
+  "Nombre_Ciudad": "COLÓN",
+  "Departamento": "Putumayo"
+ },
+ {
+  "Codigo_Ciudad": 70204,
+  "Nombre_Ciudad": "COLOSO",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 15204,
+  "Nombre_Ciudad": "CÓMBITA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 5206,
+  "Nombre_Ciudad": "CONCEPCIÓN",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 68207,
+  "Nombre_Ciudad": "CONCEPCIÓN",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 5209,
+  "Nombre_Ciudad": "CONCORDIA",
+  "Departamento": "Antioquia"
+ },
+  
+ {
+  "Codigo_Ciudad": 47205,
+  "Nombre_Ciudad": "CONCORDIA",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 27205,
+  "Nombre_Ciudad": "CONDOTO",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 68209,
+  "Nombre_Ciudad": "CONFINES",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 52207,
+  "Nombre_Ciudad": "CONSACA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 52210,
+  "Nombre_Ciudad": "CONTADERO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 68211,
+  "Nombre_Ciudad": "CONTRATACIÓN",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 54206,
+  "Nombre_Ciudad": "CONVENCIÓN",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 5212,
+  "Nombre_Ciudad": "COPACABANA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15212,
+  "Nombre_Ciudad": "COPER",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 13212,
+  "Nombre_Ciudad": "CÓRDOBA",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 52215,
+  "Nombre_Ciudad": "CÓRDOBA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 63212,
+  "Nombre_Ciudad": "CÓRDOBA",
+  "Departamento": "Quindio"
+ },
+ {
+  "Codigo_Ciudad": 19212,
+  "Nombre_Ciudad": "CORINTO",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 68217,
+  "Nombre_Ciudad": "COROMORO",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 70215,
+  "Nombre_Ciudad": "COROZAL",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 15215,
+  "Nombre_Ciudad": "CORRALES",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25214,
+  "Nombre_Ciudad": "COTA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 23300,
+  "Nombre_Ciudad": "COTORRA",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 15218,
+  "Nombre_Ciudad": "COVARACHÍA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 70221,
+  "Nombre_Ciudad": "COVEÑAS",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 73217,
+  "Nombre_Ciudad": "COYAIMA",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 81220,
+  "Nombre_Ciudad": "CRAVO NORTE",
+  "Departamento": "Arauca"
+ },
+ {
+  "Codigo_Ciudad": 52224,
+  "Nombre_Ciudad": "CUASPUD",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 15223,
+  "Nombre_Ciudad": "CUBARÁ",
+  "Departamento": "Boyacá"
+ },
+  
+ {
+  "Codigo_Ciudad": 50223,
+  "Nombre_Ciudad": "CUBARRAL",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 15224,
+  "Nombre_Ciudad": "CUCAITA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25224,
+  "Nombre_Ciudad": "CUCUNUBÁ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 54001,
+  "Nombre_Ciudad": "CÚCUTA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 54223,
+  "Nombre_Ciudad": "CUCUTILLA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 15226,
+  "Nombre_Ciudad": "CUÍTIVA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 50226,
+  "Nombre_Ciudad": "CUMARAL",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 99773,
+  "Nombre_Ciudad": "CUMARIBO",
+  "Departamento": "Vichada"
+ },
+ {
+  "Codigo_Ciudad": 52227,
+  "Nombre_Ciudad": "CUMBAL",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 52233,
+  "Nombre_Ciudad": "CUMBITARA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 73226,
+  "Nombre_Ciudad": "CUNDAY",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 18205,
+  "Nombre_Ciudad": "CURILLO",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 68229,
+  "Nombre_Ciudad": "CURITÍ",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 20228,
+  "Nombre_Ciudad": "CURUMANÍ",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 5234,
+  "Nombre_Ciudad": "DABEIBA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 76233,
+  "Nombre_Ciudad": "DAGUA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 44090,
+  "Nombre_Ciudad": "DIBULLA",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 44098,
+  "Nombre_Ciudad": "DISTRACCIÓN",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 73236,
+  "Nombre_Ciudad": "DOLORES",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 5237,
+  "Nombre_Ciudad": "DON MATÍAS",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 66170,
+  "Nombre_Ciudad": "DOSQUEBRADAS",
+  "Departamento": "Risaralda"
+ },
+ {
+  "Codigo_Ciudad": 15238,
+  "Nombre_Ciudad": "DUITAMA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 54239,
+  "Nombre_Ciudad": "DURANIA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 5240,
+  "Nombre_Ciudad": "EBÉJICO",
+  "Departamento": "Antioquia"
+ },
+  
+ {
+  "Codigo_Ciudad": 76243,
+  "Nombre_Ciudad": "EL ÁGUILA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 5250,
+  "Nombre_Ciudad": "EL BAGRE",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 47245,
+  "Nombre_Ciudad": "EL BANCO",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 76246,
+  "Nombre_Ciudad": "EL CAIRO",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 50245,
+  "Nombre_Ciudad": "EL CALVARIO",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 27135,
+  "Nombre_Ciudad": "EL CANTÓN DEL SAN PABLO",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 54245,
+  "Nombre_Ciudad": "EL CARMEN",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 27245,
+  "Nombre_Ciudad": "EL CARMEN DE ATRATO",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 13244,
+  "Nombre_Ciudad": "EL CARMEN DE BOLÍVAR",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 68235,
+  "Nombre_Ciudad": "EL CARMEN DE CHUCURÍ",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 5148,
+  "Nombre_Ciudad": "EL CARMEN DE VIBORAL",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 50251,
+  "Nombre_Ciudad": "EL CASTILLO",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 76248,
+  "Nombre_Ciudad": "EL CERRITO",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 52250,
+  "Nombre_Ciudad": "EL CHARCO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 15244,
+  "Nombre_Ciudad": "EL COCUY",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25245,
+  "Nombre_Ciudad": "EL COLEGIO",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 20238,
+  "Nombre_Ciudad": "EL COPEY",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 18247,
+  "Nombre_Ciudad": "EL DONCELLO",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 50270,
+  "Nombre_Ciudad": "EL DORADO",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 76250,
+  "Nombre_Ciudad": "EL DOVIO",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 91263,
+  "Nombre_Ciudad": "EL ENCANTO",
+  "Departamento": "Amazonas"
+ },
+ {
+  "Codigo_Ciudad": 15248,
+  "Nombre_Ciudad": "EL ESPINO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 68245,
+  "Nombre_Ciudad": "EL GUACAMAYO",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 13248,
+  "Nombre_Ciudad": "EL GUAMO",
+  "Departamento": "Bolívar"
+ },
+  
+ {
+  "Codigo_Ciudad": 27250,
+  "Nombre_Ciudad": "EL LITORAL DEL SAN JUAN",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 44110,
+  "Nombre_Ciudad": "EL MOLINO",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 20250,
+  "Nombre_Ciudad": "EL PASO",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 18256,
+  "Nombre_Ciudad": "EL PAUJIL",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 52254,
+  "Nombre_Ciudad": "EL PEÑOL",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 13268,
+  "Nombre_Ciudad": "EL PEÑÓN",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 25258,
+  "Nombre_Ciudad": "EL PEÑÓN",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 68250,
+  "Nombre_Ciudad": "EL PEÑÓN",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 47258,
+  "Nombre_Ciudad": "EL PIÑON",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 68255,
+  "Nombre_Ciudad": "EL PLAYÓN",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 47268,
+  "Nombre_Ciudad": "EL RETÉN",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 95025,
+  "Nombre_Ciudad": "EL RETORNO",
+  "Departamento": "Guaviare"
+ },
+ {
+  "Codigo_Ciudad": 70233,
+  "Nombre_Ciudad": "EL ROBLE",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 25260,
+  "Nombre_Ciudad": "EL ROSAL",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 52256,
+  "Nombre_Ciudad": "EL ROSARIO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 5697,
+  "Nombre_Ciudad": "EL SANTUARIO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 52258,
+  "Nombre_Ciudad": "EL TABLÓN DE GÓMEZ",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 19256,
+  "Nombre_Ciudad": "EL TAMBO",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 52260,
+  "Nombre_Ciudad": "EL TAMBO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 54250,
+  "Nombre_Ciudad": "EL TARRA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 54261,
+  "Nombre_Ciudad": "EL ZULIA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 41244,
+  "Nombre_Ciudad": "ELÍAS",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 68264,
+  "Nombre_Ciudad": "ENCINO",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 68266,
+  "Nombre_Ciudad": "ENCISO",
+  "Departamento": "Santander"
+ },
+  
+ {
+  "Codigo_Ciudad": 5264,
+  "Nombre_Ciudad": "ENTRERRIOS",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5266,
+  "Nombre_Ciudad": "ENVIGADO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 73268,
+  "Nombre_Ciudad": "ESPINAL",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 25269,
+  "Nombre_Ciudad": "FACATATIVÁ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 73270,
+  "Nombre_Ciudad": "FALAN",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 17272,
+  "Nombre_Ciudad": "FILADELFIA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 63272,
+  "Nombre_Ciudad": "FILANDIA",
+  "Departamento": "Quindio"
+ },
+ {
+  "Codigo_Ciudad": 15272,
+  "Nombre_Ciudad": "FIRAVITOBA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 73275,
+  "Nombre_Ciudad": "FLANDES",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 18001,
+  "Nombre_Ciudad": "FLORENCIA",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 19290,
+  "Nombre_Ciudad": "FLORENCIA",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 15276,
+  "Nombre_Ciudad": "FLORESTA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 68271,
+  "Nombre_Ciudad": "FLORIÁN",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 76275,
+  "Nombre_Ciudad": "FLORIDA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 68276,
+  "Nombre_Ciudad": "FLORIDABLANCA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 25279,
+  "Nombre_Ciudad": "FOMEQUE",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 44279,
+  "Nombre_Ciudad": "FONSECA",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 81300,
+  "Nombre_Ciudad": "FORTUL",
+  "Departamento": "Arauca"
+ },
+ {
+  "Codigo_Ciudad": 25281,
+  "Nombre_Ciudad": "FOSCA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 52520,
+  "Nombre_Ciudad": "FRANCISCO PIZARRO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 5282,
+  "Nombre_Ciudad": "FREDONIA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 73283,
+  "Nombre_Ciudad": "FRESNO",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 5284,
+  "Nombre_Ciudad": "FRONTINO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 50287,
+  "Nombre_Ciudad": "FUENTE DE ORO",
+  "Departamento": "Meta"
+ },
+  
+ {
+  "Codigo_Ciudad": 47288,
+  "Nombre_Ciudad": "FUNDACIÓN",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 52287,
+  "Nombre_Ciudad": "FUNES",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 25286,
+  "Nombre_Ciudad": "FUNZA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25288,
+  "Nombre_Ciudad": "FÚQUENE",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25290,
+  "Nombre_Ciudad": "FUSAGASUGÁ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25293,
+  "Nombre_Ciudad": "GACHALA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25295,
+  "Nombre_Ciudad": "GACHANCIPÁ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15293,
+  "Nombre_Ciudad": "GACHANTIVÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25297,
+  "Nombre_Ciudad": "GACHETÁ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 68296,
+  "Nombre_Ciudad": "GALÁN",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 8296,
+  "Nombre_Ciudad": "GALAPA",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 70235,
+  "Nombre_Ciudad": "GALERAS",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 25299,
+  "Nombre_Ciudad": "GAMA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 20295,
+  "Nombre_Ciudad": "GAMARRA",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 68298,
+  "Nombre_Ciudad": "GAMBITA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 15296,
+  "Nombre_Ciudad": "GAMEZA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15299,
+  "Nombre_Ciudad": "GARAGOA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 41298,
+  "Nombre_Ciudad": "GARZÓN",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 63302,
+  "Nombre_Ciudad": "GÉNOVA",
+  "Departamento": "Quindio"
+ },
+ {
+  "Codigo_Ciudad": 41306,
+  "Nombre_Ciudad": "GIGANTE",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 76306,
+  "Nombre_Ciudad": "GINEBRA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 5306,
+  "Nombre_Ciudad": "GIRALDO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25307,
+  "Nombre_Ciudad": "GIRARDOT",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 5308,
+  "Nombre_Ciudad": "GIRARDOTA",
+  "Departamento": "Antioquia"
+ },
+  
+ {
+  "Codigo_Ciudad": 68307,
+  "Nombre_Ciudad": "GIRÓN",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 5310,
+  "Nombre_Ciudad": "GÓMEZ PLATA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 20310,
+  "Nombre_Ciudad": "GONZÁLEZ",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 54313,
+  "Nombre_Ciudad": "GRAMALOTE",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 5313,
+  "Nombre_Ciudad": "GRANADA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25312,
+  "Nombre_Ciudad": "GRANADA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 50313,
+  "Nombre_Ciudad": "GRANADA",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 68318,
+  "Nombre_Ciudad": "GUACA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 15317,
+  "Nombre_Ciudad": "GUACAMAYAS",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 76318,
+  "Nombre_Ciudad": "GUACARÍ",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 25317,
+  "Nombre_Ciudad": "GUACHETÁ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 52317,
+  "Nombre_Ciudad": "GUACHUCAL",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 76111,
+  "Nombre_Ciudad": "GUADALAJARA DE BUGA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 5315,
+  "Nombre_Ciudad": "GUADALUPE",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 41319,
+  "Nombre_Ciudad": "GUADALUPE",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 68320,
+  "Nombre_Ciudad": "GUADALUPE",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 25320,
+  "Nombre_Ciudad": "GUADUAS",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 52320,
+  "Nombre_Ciudad": "GUAITARILLA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 52323,
+  "Nombre_Ciudad": "GUALMATÁN",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 47318,
+  "Nombre_Ciudad": "GUAMAL",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 50318,
+  "Nombre_Ciudad": "GUAMAL",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 73319,
+  "Nombre_Ciudad": "GUAMO",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 19318,
+  "Nombre_Ciudad": "GUAPI",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 68322,
+  "Nombre_Ciudad": "GUAPOTÁ",
+  "Departamento": "Santander"
+ },
+  
+ {
+  "Codigo_Ciudad": 70265,
+  "Nombre_Ciudad": "GUARANDA",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 5318,
+  "Nombre_Ciudad": "GUARNE",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25322,
+  "Nombre_Ciudad": "GUASCA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 5321,
+  "Nombre_Ciudad": "GUATAPE",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25324,
+  "Nombre_Ciudad": "GUATAQUÍ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25326,
+  "Nombre_Ciudad": "GUATAVITA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15322,
+  "Nombre_Ciudad": "GUATEQUE",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 66318,
+  "Nombre_Ciudad": "GUÁTICA",
+  "Departamento": "Risaralda"
+ },
+ {
+  "Codigo_Ciudad": 68324,
+  "Nombre_Ciudad": "GUAVATÁ",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 25328,
+  "Nombre_Ciudad": "GUAYABAL DE SIQUIMA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25335,
+  "Nombre_Ciudad": "GUAYABETAL",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15325,
+  "Nombre_Ciudad": "GUAYATÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 68327,
+  "Nombre_Ciudad": "GÜEPSA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 15332,
+  "Nombre_Ciudad": "GÜICÁN",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25339,
+  "Nombre_Ciudad": "GUTIÉRREZ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 54344,
+  "Nombre_Ciudad": "HACARÍ",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 13300,
+  "Nombre_Ciudad": "HATILLO DE LOBA",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 68344,
+  "Nombre_Ciudad": "HATO",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 85125,
+  "Nombre_Ciudad": "HATO COROZAL",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 44378,
+  "Nombre_Ciudad": "HATONUEVO",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 5347,
+  "Nombre_Ciudad": "HELICONIA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 54347,
+  "Nombre_Ciudad": "HERRÁN",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 73347,
+  "Nombre_Ciudad": "HERVEO",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 5353,
+  "Nombre_Ciudad": "HISPANIA",
+  "Departamento": "Antioquia"
+ },
+  
+ {
+  "Codigo_Ciudad": 41349,
+  "Nombre_Ciudad": "HOBO",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 73349,
+  "Nombre_Ciudad": "HONDA",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 73001,
+  "Nombre_Ciudad": "IBAGUÉ",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 73352,
+  "Nombre_Ciudad": "ICONONZO",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 52352,
+  "Nombre_Ciudad": "ILES",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 52354,
+  "Nombre_Ciudad": "IMUÉS",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 94001,
+  "Nombre_Ciudad": "INÍRIDA",
+  "Departamento": "Guainía"
+ },
+ {
+  "Codigo_Ciudad": 19355,
+  "Nombre_Ciudad": "INZÁ",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 52356,
+  "Nombre_Ciudad": "IPIALES",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 41357,
+  "Nombre_Ciudad": "IQUIRA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 41359,
+  "Nombre_Ciudad": "ISNOS",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 27361,
+  "Nombre_Ciudad": "ISTMINA",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 5360,
+  "Nombre_Ciudad": "ITAGUI",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5361,
+  "Nombre_Ciudad": "ITUANGO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15362,
+  "Nombre_Ciudad": "IZA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 19364,
+  "Nombre_Ciudad": "JAMBALÓ",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 76364,
+  "Nombre_Ciudad": "JAMUNDÍ",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 5364,
+  "Nombre_Ciudad": "JARDÍN",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15367,
+  "Nombre_Ciudad": "JENESANO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 5368,
+  "Nombre_Ciudad": "JERICÓ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15368,
+  "Nombre_Ciudad": "JERICÓ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25368,
+  "Nombre_Ciudad": "JERUSALÉN",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 68368,
+  "Nombre_Ciudad": "JESÚS MARÍA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 68370,
+  "Nombre_Ciudad": "JORDÁN",
+  "Departamento": "Santander"
+ },
+  
+ {
+  "Codigo_Ciudad": 8372,
+  "Nombre_Ciudad": "JUAN DE ACOSTA",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 25372,
+  "Nombre_Ciudad": "JUNÍN",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 27372,
+  "Nombre_Ciudad": "JURADÓ",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 23350,
+  "Nombre_Ciudad": "LA APARTADA",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 41378,
+  "Nombre_Ciudad": "LA ARGENTINA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 68377,
+  "Nombre_Ciudad": "LA BELLEZA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 25377,
+  "Nombre_Ciudad": "LA CALERA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15380,
+  "Nombre_Ciudad": "LA CAPILLA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 5376,
+  "Nombre_Ciudad": "LA CEJA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 66383,
+  "Nombre_Ciudad": "LA CELIA",
+  "Departamento": "Risaralda"
+ },
+ {
+  "Codigo_Ciudad": 91405,
+  "Nombre_Ciudad": "LA CHORRERA",
+  "Departamento": "Amazonas"
+ },
+ {
+  "Codigo_Ciudad": 52378,
+  "Nombre_Ciudad": "LA CRUZ",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 76377,
+  "Nombre_Ciudad": "LA CUMBRE",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 17380,
+  "Nombre_Ciudad": "LA DORADA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 54385,
+  "Nombre_Ciudad": "LA ESPERANZA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 5380,
+  "Nombre_Ciudad": "LA ESTRELLA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 52381,
+  "Nombre_Ciudad": "LA FLORIDA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 20383,
+  "Nombre_Ciudad": "LA GLORIA",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 94885,
+  "Nombre_Ciudad": "LA GUADALUPE",
+  "Departamento": "Guainía"
+ },
+ {
+  "Codigo_Ciudad": 20400,
+  "Nombre_Ciudad": "LA JAGUA DE IBIRICO",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 44420,
+  "Nombre_Ciudad": "LA JAGUA DEL PILAR",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 52385,
+  "Nombre_Ciudad": "LA LLANADA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 50350,
+  "Nombre_Ciudad": "LA MACARENA",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 17388,
+  "Nombre_Ciudad": "LA MERCED",
+  "Departamento": "Caldas"
+ },
+  
+ {
+  "Codigo_Ciudad": 25386,
+  "Nombre_Ciudad": "LA MESA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 18410,
+  "Nombre_Ciudad": "LA MONTAÑITA",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 25394,
+  "Nombre_Ciudad": "LA PALMA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 20621,
+  "Nombre_Ciudad": "LA PAZ",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 68397,
+  "Nombre_Ciudad": "LA PAZ",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 91407,
+  "Nombre_Ciudad": "LA PEDRERA",
+  "Departamento": "Amazonas"
+ },
+ {
+  "Codigo_Ciudad": 25398,
+  "Nombre_Ciudad": "LA PEÑA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 5390,
+  "Nombre_Ciudad": "LA PINTADA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 41396,
+  "Nombre_Ciudad": "LA PLATA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 54398,
+  "Nombre_Ciudad": "LA PLAYA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 99524,
+  "Nombre_Ciudad": "LA PRIMAVERA",
+  "Departamento": "Vichada"
+ },
+ {
+  "Codigo_Ciudad": 85136,
+  "Nombre_Ciudad": "LA SALINA",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 19392,
+  "Nombre_Ciudad": "LA SIERRA",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 63401,
+  "Nombre_Ciudad": "LA TEBAIDA",
+  "Departamento": "Quindio"
+ },
+ {
+  "Codigo_Ciudad": 52390,
+  "Nombre_Ciudad": "LA TOLA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 5400,
+  "Nombre_Ciudad": "LA UNIÓN",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 52399,
+  "Nombre_Ciudad": "LA UNIÓN",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 70400,
+  "Nombre_Ciudad": "LA UNIÓN",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 76400,
+  "Nombre_Ciudad": "LA UNIÓN",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 15403,
+  "Nombre_Ciudad": "LA UVITA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 19397,
+  "Nombre_Ciudad": "LA VEGA",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 25402,
+  "Nombre_Ciudad": "LA VEGA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15401,
+  "Nombre_Ciudad": "LA VICTORIA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 76403,
+  "Nombre_Ciudad": "LA VICTORIA",
+  "Departamento": "Valle del Cauca"
+ },
+  
+ {
+  "Codigo_Ciudad": 91430,
+  "Nombre_Ciudad": "LA VICTORIA",
+  "Departamento": "Amazonas"
+ },
+ {
+  "Codigo_Ciudad": 66400,
+  "Nombre_Ciudad": "LA VIRGINIA",
+  "Departamento": "Risaralda"
+ },
+ {
+  "Codigo_Ciudad": 54377,
+  "Nombre_Ciudad": "LABATECA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 15377,
+  "Nombre_Ciudad": "LABRANZAGRANDE",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 68385,
+  "Nombre_Ciudad": "LANDÁZURI",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 68406,
+  "Nombre_Ciudad": "LEBRÍJA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 86573,
+  "Nombre_Ciudad": "LEGUÍZAMO",
+  "Departamento": "Putumayo"
+ },
+ {
+  "Codigo_Ciudad": 52405,
+  "Nombre_Ciudad": "LEIVA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 50400,
+  "Nombre_Ciudad": "LEJANÍAS",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 25407,
+  "Nombre_Ciudad": "LENGUAZAQUE",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 73408,
+  "Nombre_Ciudad": "LÉRIDA",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 91001,
+  "Nombre_Ciudad": "LETICIA",
+  "Departamento": "Amazonas"
+ },
+ {
+  "Codigo_Ciudad": 73411,
+  "Nombre_Ciudad": "LÍBANO",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 5411,
+  "Nombre_Ciudad": "LIBORINA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 52411,
+  "Nombre_Ciudad": "LINARES",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 27413,
+  "Nombre_Ciudad": "LLORÓ",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 19418,
+  "Nombre_Ciudad": "LÓPEZ",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 23417,
+  "Nombre_Ciudad": "LORICA",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 52418,
+  "Nombre_Ciudad": "LOS ANDES",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 23419,
+  "Nombre_Ciudad": "LOS CÓRDOBAS",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 70418,
+  "Nombre_Ciudad": "LOS PALMITOS",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 54405,
+  "Nombre_Ciudad": "LOS PATIOS",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 68418,
+  "Nombre_Ciudad": "LOS SANTOS",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 54418,
+  "Nombre_Ciudad": "LOURDES",
+  "Departamento": "Norte de Santander"
+ },
+  
+ {
+  "Codigo_Ciudad": 8421,
+  "Nombre_Ciudad": "LURUACO",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 15425,
+  "Nombre_Ciudad": "MACANAL",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 68425,
+  "Nombre_Ciudad": "MACARAVITA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 5425,
+  "Nombre_Ciudad": "MACEO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25426,
+  "Nombre_Ciudad": "MACHETA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25430,
+  "Nombre_Ciudad": "MADRID",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 13430,
+  "Nombre_Ciudad": "MAGANGUÉ",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 52427,
+  "Nombre_Ciudad": "MAGÜI",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 13433,
+  "Nombre_Ciudad": "MAHATES",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 44430,
+  "Nombre_Ciudad": "MAICAO",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 70429,
+  "Nombre_Ciudad": "MAJAGUAL",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 68432,
+  "Nombre_Ciudad": "MÁLAGA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 8433,
+  "Nombre_Ciudad": "MALAMBO",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 52435,
+  "Nombre_Ciudad": "MALLAMA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 8436,
+  "Nombre_Ciudad": "MANATÍ",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 20443,
+  "Nombre_Ciudad": "MANAURE",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 44560,
+  "Nombre_Ciudad": "MANAURE",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 85139,
+  "Nombre_Ciudad": "MANÍ",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 17001,
+  "Nombre_Ciudad": "MANIZALES",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 25436,
+  "Nombre_Ciudad": "MANTA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 17433,
+  "Nombre_Ciudad": "MANZANARES",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 50325,
+  "Nombre_Ciudad": "MAPIRIPÁN",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 94663,
+  "Nombre_Ciudad": "MAPIRIPANA",
+  "Departamento": "Guainía"
+ },
+ {
+  "Codigo_Ciudad": 13440,
+  "Nombre_Ciudad": "MARGARITA",
+  "Departamento": "Bolívar"
+ },
+  
+ {
+  "Codigo_Ciudad": 13442,
+  "Nombre_Ciudad": "MARÍA LA BAJA",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 5440,
+  "Nombre_Ciudad": "MARINILLA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15442,
+  "Nombre_Ciudad": "MARIPÍ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 73443,
+  "Nombre_Ciudad": "MARIQUITA",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 17442,
+  "Nombre_Ciudad": "MARMATO",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 17444,
+  "Nombre_Ciudad": "MARQUETALIA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 66440,
+  "Nombre_Ciudad": "MARSELLA",
+  "Departamento": "Risaralda"
+ },
+ {
+  "Codigo_Ciudad": 17446,
+  "Nombre_Ciudad": "MARULANDA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 68444,
+  "Nombre_Ciudad": "MATANZA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 5001,
+  "Nombre_Ciudad": "MEDELLÍN",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25438,
+  "Nombre_Ciudad": "MEDINA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 27425,
+  "Nombre_Ciudad": "MEDIO ATRATO",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 27430,
+  "Nombre_Ciudad": "MEDIO BAUDÓ",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 27450,
+  "Nombre_Ciudad": "MEDIO SAN JUAN",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 73449,
+  "Nombre_Ciudad": "MELGAR",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 19450,
+  "Nombre_Ciudad": "MERCADERES",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 50330,
+  "Nombre_Ciudad": "MESETAS",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 18460,
+  "Nombre_Ciudad": "MILÁN",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 15455,
+  "Nombre_Ciudad": "MIRAFLORES",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 95200,
+  "Nombre_Ciudad": "MIRAFLORES",
+  "Departamento": "Guaviare"
+ },
+ {
+  "Codigo_Ciudad": 19455,
+  "Nombre_Ciudad": "MIRANDA",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 91460,
+  "Nombre_Ciudad": "MIRITI - PARANÁ",
+  "Departamento": "Amazonas"
+ },
+ {
+  "Codigo_Ciudad": 66456,
+  "Nombre_Ciudad": "MISTRATÓ",
+  "Departamento": "Risaralda"
+ },
+ {
+  "Codigo_Ciudad": 97001,
+  "Nombre_Ciudad": "MITÚ",
+  "Departamento": "Vaupés"
+ },
+  
+ {
+  "Codigo_Ciudad": 86001,
+  "Nombre_Ciudad": "MOCOA",
+  "Departamento": "Putumayo"
+ },
+ {
+  "Codigo_Ciudad": 68464,
+  "Nombre_Ciudad": "MOGOTES",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 68468,
+  "Nombre_Ciudad": "MOLAGAVITA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 23464,
+  "Nombre_Ciudad": "MOMIL",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 13468,
+  "Nombre_Ciudad": "MOMPÓS",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 15464,
+  "Nombre_Ciudad": "MONGUA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15466,
+  "Nombre_Ciudad": "MONGUÍ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15469,
+  "Nombre_Ciudad": "MONIQUIRÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 5467,
+  "Nombre_Ciudad": "MONTEBELLO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 13458,
+  "Nombre_Ciudad": "MONTECRISTO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 23466,
+  "Nombre_Ciudad": "MONTELÍBANO",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 63470,
+  "Nombre_Ciudad": "MONTENEGRO",
+  "Departamento": "Quindio"
+ },
+ {
+  "Codigo_Ciudad": 23001,
+  "Nombre_Ciudad": "MONTERÍA",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 85162,
+  "Nombre_Ciudad": "MONTERREY",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 23500,
+  "Nombre_Ciudad": "MOÑITOS",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 13473,
+  "Nombre_Ciudad": "MORALES",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 19473,
+  "Nombre_Ciudad": "MORALES",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 18479,
+  "Nombre_Ciudad": "MORELIA",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 94888,
+  "Nombre_Ciudad": "MORICHAL",
+  "Departamento": "Guainía"
+ },
+ {
+  "Codigo_Ciudad": 70473,
+  "Nombre_Ciudad": "MORROA",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 25473,
+  "Nombre_Ciudad": "MOSQUERA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 52473,
+  "Nombre_Ciudad": "MOSQUERA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 15476,
+  "Nombre_Ciudad": "MOTAVITA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 73461,
+  "Nombre_Ciudad": "MURILLO",
+  "Departamento": "Tolima"
+ },
+  
+ {
+  "Codigo_Ciudad": 5475,
+  "Nombre_Ciudad": "MURINDÓ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5480,
+  "Nombre_Ciudad": "MUTATÁ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 54480,
+  "Nombre_Ciudad": "MUTISCUA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 15480,
+  "Nombre_Ciudad": "MUZO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 5483,
+  "Nombre_Ciudad": "NARIÑO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25483,
+  "Nombre_Ciudad": "NARIÑO",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 52480,
+  "Nombre_Ciudad": "NARIÑO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 41483,
+  "Nombre_Ciudad": "NÁTAGA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 73483,
+  "Nombre_Ciudad": "NATAGAIMA",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 5495,
+  "Nombre_Ciudad": "NECHÍ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5490,
+  "Nombre_Ciudad": "NECOCLÍ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 17486,
+  "Nombre_Ciudad": "NEIRA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 41001,
+  "Nombre_Ciudad": "NEIVA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 25486,
+  "Nombre_Ciudad": "NEMOCÓN",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25488,
+  "Nombre_Ciudad": "NILO",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25489,
+  "Nombre_Ciudad": "NIMAIMA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15491,
+  "Nombre_Ciudad": "NOBSA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25491,
+  "Nombre_Ciudad": "NOCAIMA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 17495,
+  "Nombre_Ciudad": "NORCASIA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 27491,
+  "Nombre_Ciudad": "NÓVITA",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 47460,
+  "Nombre_Ciudad": "NUEVA GRANADA",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 15494,
+  "Nombre_Ciudad": "NUEVO COLÓN",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 85225,
+  "Nombre_Ciudad": "NUNCHÍA",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 27495,
+  "Nombre_Ciudad": "NUQUÍ",
+  "Departamento": "Chocó"
+ },
+  
+ {
+  "Codigo_Ciudad": 76497,
+  "Nombre_Ciudad": "OBANDO",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 68498,
+  "Nombre_Ciudad": "OCAMONTE",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 54498,
+  "Nombre_Ciudad": "OCAÑA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 68500,
+  "Nombre_Ciudad": "OIBA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 15500,
+  "Nombre_Ciudad": "OICATÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 5501,
+  "Nombre_Ciudad": "OLAYA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 52490,
+  "Nombre_Ciudad": "OLAYA HERRERA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 68502,
+  "Nombre_Ciudad": "ONZAGA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 41503,
+  "Nombre_Ciudad": "OPORAPA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 86320,
+  "Nombre_Ciudad": "ORITO",
+  "Departamento": "Putumayo"
+ },
+ {
+  "Codigo_Ciudad": 85230,
+  "Nombre_Ciudad": "OROCUÉ",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 73504,
+  "Nombre_Ciudad": "ORTEGA",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 52506,
+  "Nombre_Ciudad": "OSPINA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 15507,
+  "Nombre_Ciudad": "OTANCHE",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 70508,
+  "Nombre_Ciudad": "OVEJAS",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 15511,
+  "Nombre_Ciudad": "PACHAVITA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25513,
+  "Nombre_Ciudad": "PACHO",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 97511,
+  "Nombre_Ciudad": "PACOA",
+  "Departamento": "Vaupés"
+ },
+ {
+  "Codigo_Ciudad": 17513,
+  "Nombre_Ciudad": "PÁCORA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 19513,
+  "Nombre_Ciudad": "PADILLA",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 19517,
+  "Nombre_Ciudad": "PAEZ",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 15514,
+  "Nombre_Ciudad": "PÁEZ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 41518,
+  "Nombre_Ciudad": "PAICOL",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 20517,
+  "Nombre_Ciudad": "PAILITAS",
+  "Departamento": "Cesar"
+ },
+  
+ {
+  "Codigo_Ciudad": 25518,
+  "Nombre_Ciudad": "PAIME",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15516,
+  "Nombre_Ciudad": "PAIPA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15518,
+  "Nombre_Ciudad": "PAJARITO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 41524,
+  "Nombre_Ciudad": "PALERMO",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 17524,
+  "Nombre_Ciudad": "PALESTINA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 41530,
+  "Nombre_Ciudad": "PALESTINA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 68522,
+  "Nombre_Ciudad": "PALMAR",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 8520,
+  "Nombre_Ciudad": "PALMAR DE VARELA",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 68524,
+  "Nombre_Ciudad": "PALMAS DEL SOCORRO",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 76520,
+  "Nombre_Ciudad": "PALMIRA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 70523,
+  "Nombre_Ciudad": "PALMITO",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 73520,
+  "Nombre_Ciudad": "PALOCABILDO",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 54518,
+  "Nombre_Ciudad": "PAMPLONA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 54520,
+  "Nombre_Ciudad": "PAMPLONITA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 94887,
+  "Nombre_Ciudad": "PANA PANA",
+  "Departamento": "Guainía"
+ },
+ {
+  "Codigo_Ciudad": 25524,
+  "Nombre_Ciudad": "PANDI",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15522,
+  "Nombre_Ciudad": "PANQUEBA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 97777,
+  "Nombre_Ciudad": "PAPUNAUA",
+  "Departamento": "Vaupés"
+ },
+ {
+  "Codigo_Ciudad": 68533,
+  "Nombre_Ciudad": "PÁRAMO",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 25530,
+  "Nombre_Ciudad": "PARATEBUENO",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25535,
+  "Nombre_Ciudad": "PASCA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 52001,
+  "Nombre_Ciudad": "PASTO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 19532,
+  "Nombre_Ciudad": "PATÍA",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 15531,
+  "Nombre_Ciudad": "PAUNA",
+  "Departamento": "Boyacá"
+ },
+  
+ {
+  "Codigo_Ciudad": 15533,
+  "Nombre_Ciudad": "PAYA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 85250,
+  "Nombre_Ciudad": "PAZ DE ARIPORO",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 15537,
+  "Nombre_Ciudad": "PAZ DE RÍO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 47541,
+  "Nombre_Ciudad": "PEDRAZA",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 20550,
+  "Nombre_Ciudad": "PELAYA",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 17541,
+  "Nombre_Ciudad": "PENSILVANIA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 5541,
+  "Nombre_Ciudad": "PEÑOL",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5543,
+  "Nombre_Ciudad": "PEQUE",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 66001,
+  "Nombre_Ciudad": "PEREIRA",
+  "Departamento": "Risaralda"
+ },
+ {
+  "Codigo_Ciudad": 15542,
+  "Nombre_Ciudad": "PESCA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 19533,
+  "Nombre_Ciudad": "PIAMONTE",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 68547,
+  "Nombre_Ciudad": "PIEDECUESTA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 73547,
+  "Nombre_Ciudad": "PIEDRAS",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 19548,
+  "Nombre_Ciudad": "PIENDAMÓ",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 63548,
+  "Nombre_Ciudad": "PIJAO",
+  "Departamento": "Quindio"
+ },
+ {
+  "Codigo_Ciudad": 47545,
+  "Nombre_Ciudad": "PIJIÑO DEL CARMEN",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 68549,
+  "Nombre_Ciudad": "PINCHOTE",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 13549,
+  "Nombre_Ciudad": "PINILLOS",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 8549,
+  "Nombre_Ciudad": "PIOJÓ",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 15550,
+  "Nombre_Ciudad": "PISBA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 41548,
+  "Nombre_Ciudad": "PITAL",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 41551,
+  "Nombre_Ciudad": "PITALITO",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 47551,
+  "Nombre_Ciudad": "PIVIJAY",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 73555,
+  "Nombre_Ciudad": "PLANADAS",
+  "Departamento": "Tolima"
+ },
+  
+ {
+  "Codigo_Ciudad": 23555,
+  "Nombre_Ciudad": "PLANETA RICA",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 47555,
+  "Nombre_Ciudad": "PLATO",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 52540,
+  "Nombre_Ciudad": "POLICARPA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 8558,
+  "Nombre_Ciudad": "POLONUEVO",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 8560,
+  "Nombre_Ciudad": "PONEDERA",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 19001,
+  "Nombre_Ciudad": "POPAYÁN",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 85263,
+  "Nombre_Ciudad": "PORE",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 52560,
+  "Nombre_Ciudad": "POTOSÍ",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 76563,
+  "Nombre_Ciudad": "PRADERA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 73563,
+  "Nombre_Ciudad": "PRADO",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 52565,
+  "Nombre_Ciudad": "PROVIDENCIA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 88564,
+  "Nombre_Ciudad": "PROVIDENCIA",
+  "Departamento": "Archipiélago de San Andrés, Providencia y Santa Catalina"
+ },
+ {
+  "Codigo_Ciudad": 20570,
+  "Nombre_Ciudad": "PUEBLO BELLO",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 23570,
+  "Nombre_Ciudad": "PUEBLO NUEVO",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 66572,
+  "Nombre_Ciudad": "PUEBLO RICO",
+  "Departamento": "Risaralda"
+ },
+ {
+  "Codigo_Ciudad": 5576,
+  "Nombre_Ciudad": "PUEBLORRICO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 47570,
+  "Nombre_Ciudad": "PUEBLOVIEJO",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 68572,
+  "Nombre_Ciudad": "PUENTE NACIONAL",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 52573,
+  "Nombre_Ciudad": "PUERRES",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 91530,
+  "Nombre_Ciudad": "PUERTO ALEGRÍA",
+  "Departamento": "Amazonas"
+ },
+ {
+  "Codigo_Ciudad": 91536,
+  "Nombre_Ciudad": "PUERTO ARICA",
+  "Departamento": "Amazonas"
+ },
+ {
+  "Codigo_Ciudad": 86568,
+  "Nombre_Ciudad": "PUERTO ASÍS",
+  "Departamento": "Putumayo"
+ },
+ {
+  "Codigo_Ciudad": 5579,
+  "Nombre_Ciudad": "PUERTO BERRÍO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15572,
+  "Nombre_Ciudad": "PUERTO BOYACÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 86569,
+  "Nombre_Ciudad": "PUERTO CAICEDO",
+  "Departamento": "Putumayo"
+ },
+ {
+  "Codigo_Ciudad": 99001,
+  "Nombre_Ciudad": "PUERTO CARREÑO",
+  "Departamento": "Vichada"
+ },
+ {
+  "Codigo_Ciudad": 8573,
+  "Nombre_Ciudad": "PUERTO COLOMBIA",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 94884,
+  "Nombre_Ciudad": "PUERTO COLOMBIA",
+  "Departamento": "Guainía"
+ },
+ {
+  "Codigo_Ciudad": 50450,
+  "Nombre_Ciudad": "PUERTO CONCORDIA",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 23574,
+  "Nombre_Ciudad": "PUERTO ESCONDIDO",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 50568,
+  "Nombre_Ciudad": "PUERTO GAITÁN",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 86571,
+  "Nombre_Ciudad": "PUERTO GUZMÁN",
+  "Departamento": "Putumayo"
+ },
+ {
+  "Codigo_Ciudad": 23580,
+  "Nombre_Ciudad": "PUERTO LIBERTADOR",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 50577,
+  "Nombre_Ciudad": "PUERTO LLERAS",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 50573,
+  "Nombre_Ciudad": "PUERTO LÓPEZ",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 5585,
+  "Nombre_Ciudad": "PUERTO NARE",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 91540,
+  "Nombre_Ciudad": "PUERTO NARIÑO",
+  "Departamento": "Amazonas"
+ },
+ {
+  "Codigo_Ciudad": 68573,
+  "Nombre_Ciudad": "PUERTO PARRA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 18592,
+  "Nombre_Ciudad": "PUERTO RICO",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 50590,
+  "Nombre_Ciudad": "PUERTO RICO",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 81591,
+  "Nombre_Ciudad": "PUERTO RONDÓN",
+  "Departamento": "Arauca"
+ },
+ {
+  "Codigo_Ciudad": 25572,
+  "Nombre_Ciudad": "PUERTO SALGAR",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 54553,
+  "Nombre_Ciudad": "PUERTO SANTANDER",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 91669,
+  "Nombre_Ciudad": "PUERTO SANTANDER",
+  "Departamento": "Amazonas"
+ },
+ {
+  "Codigo_Ciudad": 19573,
+  "Nombre_Ciudad": "PUERTO TEJADA",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 5591,
+  "Nombre_Ciudad": "PUERTO TRIUNFO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 68575,
+  "Nombre_Ciudad": "PUERTO WILCHES",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 25580,
+  "Nombre_Ciudad": "PULÍ",
+  "Departamento": "Cundinamarca"
+ },
+  
+ {
+  "Codigo_Ciudad": 52585,
+  "Nombre_Ciudad": "PUPIALES",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 19585,
+  "Nombre_Ciudad": "PURACÉ",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 73585,
+  "Nombre_Ciudad": "PURIFICACIÓN",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 23586,
+  "Nombre_Ciudad": "PURÍSIMA",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 25592,
+  "Nombre_Ciudad": "QUEBRADANEGRA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25594,
+  "Nombre_Ciudad": "QUETAME",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 27001,
+  "Nombre_Ciudad": "QUIBDÓ",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 63594,
+  "Nombre_Ciudad": "QUIMBAYA",
+  "Departamento": "Quindio"
+ },
+ {
+  "Codigo_Ciudad": 66594,
+  "Nombre_Ciudad": "QUINCHÍA",
+  "Departamento": "Risaralda"
+ },
+ {
+  "Codigo_Ciudad": 15580,
+  "Nombre_Ciudad": "QUÍPAMA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25596,
+  "Nombre_Ciudad": "QUIPILE",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 54599,
+  "Nombre_Ciudad": "RAGONVALIA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 15599,
+  "Nombre_Ciudad": "RAMIRIQUÍ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15600,
+  "Nombre_Ciudad": "RÁQUIRA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 85279,
+  "Nombre_Ciudad": "RECETOR",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 13580,
+  "Nombre_Ciudad": "REGIDOR",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 5604,
+  "Nombre_Ciudad": "REMEDIOS",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 47605,
+  "Nombre_Ciudad": "REMOLINO",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 8606,
+  "Nombre_Ciudad": "REPELÓN",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 50606,
+  "Nombre_Ciudad": "RESTREPO",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 76606,
+  "Nombre_Ciudad": "RESTREPO",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 5607,
+  "Nombre_Ciudad": "RETIRO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25612,
+  "Nombre_Ciudad": "RICAURTE",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 52612,
+  "Nombre_Ciudad": "RICAURTE",
+  "Departamento": "Nariño"
+ },
+  
+ {
+  "Codigo_Ciudad": 20614,
+  "Nombre_Ciudad": "RÍO DE ORO",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 27580,
+  "Nombre_Ciudad": "RÍO IRO",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 27600,
+  "Nombre_Ciudad": "RÍO QUITO",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 13600,
+  "Nombre_Ciudad": "RÍO VIEJO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 73616,
+  "Nombre_Ciudad": "RIOBLANCO",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 76616,
+  "Nombre_Ciudad": "RIOFRÍO",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 44001,
+  "Nombre_Ciudad": "RIOHACHA",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 5615,
+  "Nombre_Ciudad": "RIONEGRO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 68615,
+  "Nombre_Ciudad": "RIONEGRO",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 17614,
+  "Nombre_Ciudad": "RIOSUCIO",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 27615,
+  "Nombre_Ciudad": "RIOSUCIO",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 17616,
+  "Nombre_Ciudad": "RISARALDA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 41615,
+  "Nombre_Ciudad": "RIVERA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 52621,
+  "Nombre_Ciudad": "ROBERTO PAYÁN",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 76622,
+  "Nombre_Ciudad": "ROLDANILLO",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 73622,
+  "Nombre_Ciudad": "RONCESVALLES",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 15621,
+  "Nombre_Ciudad": "RONDÓN",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 19622,
+  "Nombre_Ciudad": "ROSAS",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 73624,
+  "Nombre_Ciudad": "ROVIRA",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 68655,
+  "Nombre_Ciudad": "SABANA DE TORRES",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 8634,
+  "Nombre_Ciudad": "SABANAGRANDE",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 5628,
+  "Nombre_Ciudad": "SABANALARGA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 8638,
+  "Nombre_Ciudad": "SABANALARGA",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 85300,
+  "Nombre_Ciudad": "SABANALARGA",
+  "Departamento": "Casanare"
+ },
+  
+ {
+  "Codigo_Ciudad": 47660,
+  "Nombre_Ciudad": "SABANAS DE SAN ANGEL",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 5631,
+  "Nombre_Ciudad": "SABANETA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15632,
+  "Nombre_Ciudad": "SABOYÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 85315,
+  "Nombre_Ciudad": "SÁCAMA",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 15638,
+  "Nombre_Ciudad": "SÁCHICA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 23660,
+  "Nombre_Ciudad": "SAHAGÚN",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 41660,
+  "Nombre_Ciudad": "SALADOBLANCO",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 17653,
+  "Nombre_Ciudad": "SALAMINA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 47675,
+  "Nombre_Ciudad": "SALAMINA",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 54660,
+  "Nombre_Ciudad": "SALAZAR",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 73671,
+  "Nombre_Ciudad": "SALDAÑA",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 63690,
+  "Nombre_Ciudad": "SALENTO",
+  "Departamento": "Quindio"
+ },
+ {
+  "Codigo_Ciudad": 5642,
+  "Nombre_Ciudad": "SALGAR",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15646,
+  "Nombre_Ciudad": "SAMACÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 17662,
+  "Nombre_Ciudad": "SAMANÁ",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 52678,
+  "Nombre_Ciudad": "SAMANIEGO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 70670,
+  "Nombre_Ciudad": "SAMPUÉS",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 41668,
+  "Nombre_Ciudad": "SAN AGUSTÍN",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 20710,
+  "Nombre_Ciudad": "SAN ALBERTO",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 5647,
+  "Nombre_Ciudad": "SAN ANDRÉS",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 68669,
+  "Nombre_Ciudad": "SAN ANDRÉS",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 88001,
+  "Nombre_Ciudad": "SAN ANDRÉS",
+  "Departamento": "Archipiélago de San Andrés, Providencia y Santa Catalina"
+ },
+ {
+  "Codigo_Ciudad": 23670,
+  "Nombre_Ciudad": "SAN ANDRÉS SOTAVENTO",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 23672,
+  "Nombre_Ciudad": "SAN ANTERO",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 73675,
+  "Nombre_Ciudad": "SAN ANTONIO",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 25645,
+  "Nombre_Ciudad": "SAN ANTONIO DEL TEQUENDAMA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 68673,
+  "Nombre_Ciudad": "SAN BENITO",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 70678,
+  "Nombre_Ciudad": "SAN BENITO ABAD",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 25649,
+  "Nombre_Ciudad": "SAN BERNARDO",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 52685,
+  "Nombre_Ciudad": "SAN BERNARDO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 23675,
+  "Nombre_Ciudad": "SAN BERNARDO DEL VIENTO",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 54670,
+  "Nombre_Ciudad": "SAN CALIXTO",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 5649,
+  "Nombre_Ciudad": "SAN CARLOS",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 23678,
+  "Nombre_Ciudad": "SAN CARLOS",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 50680,
+  "Nombre_Ciudad": "SAN CARLOS DE GUAROA",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 25653,
+  "Nombre_Ciudad": "SAN CAYETANO",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 54673,
+  "Nombre_Ciudad": "SAN CAYETANO",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 13620,
+  "Nombre_Ciudad": "SAN CRISTÓBAL",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 20750,
+  "Nombre_Ciudad": "SAN DIEGO",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 15660,
+  "Nombre_Ciudad": "SAN EDUARDO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 13647,
+  "Nombre_Ciudad": "SAN ESTANISLAO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 94883,
+  "Nombre_Ciudad": "SAN FELIPE",
+  "Departamento": "Guainía"
+ },
+ {
+  "Codigo_Ciudad": 13650,
+  "Nombre_Ciudad": "SAN FERNANDO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 5652,
+  "Nombre_Ciudad": "SAN FRANCISCO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25658,
+  "Nombre_Ciudad": "SAN FRANCISCO",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 86755,
+  "Nombre_Ciudad": "SAN FRANCISCO",
+  "Departamento": "Putumayo"
+ },
+ {
+  "Codigo_Ciudad": 68679,
+  "Nombre_Ciudad": "SAN GIL",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 13654,
+  "Nombre_Ciudad": "SAN JACINTO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 13655,
+  "Nombre_Ciudad": "SAN JACINTO DEL CAUCA",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 5656,
+  "Nombre_Ciudad": "SAN JERÓNIMO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 68682,
+  "Nombre_Ciudad": "SAN JOAQUÍN",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 17665,
+  "Nombre_Ciudad": "SAN JOSÉ",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 5658,
+  "Nombre_Ciudad": "SAN JOSÉ DE LA MONTAÑA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 68684,
+  "Nombre_Ciudad": "SAN JOSÉ DE MIRANDA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 15664,
+  "Nombre_Ciudad": "SAN JOSÉ DE PARE",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 18610,
+  "Nombre_Ciudad": "SAN JOSÉ DEL FRAGUA",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 95001,
+  "Nombre_Ciudad": "SAN JOSÉ DEL GUAVIARE",
+  "Departamento": "Guaviare"
+ },
+ {
+  "Codigo_Ciudad": 27660,
+  "Nombre_Ciudad": "SAN JOSÉ DEL PALMAR",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 50683,
+  "Nombre_Ciudad": "SAN JUAN DE ARAMA",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 70702,
+  "Nombre_Ciudad": "SAN JUAN DE BETULIA",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 25662,
+  "Nombre_Ciudad": "SAN JUAN DE RÍO SECO",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 5659,
+  "Nombre_Ciudad": "SAN JUAN DE URABÁ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 44650,
+  "Nombre_Ciudad": "SAN JUAN DEL CESAR",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 13657,
+  "Nombre_Ciudad": "SAN JUAN NEPOMUCENO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 50686,
+  "Nombre_Ciudad": "SAN JUANITO",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 52687,
+  "Nombre_Ciudad": "SAN LORENZO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 5660,
+  "Nombre_Ciudad": "SAN LUIS",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 73678,
+  "Nombre_Ciudad": "SAN LUIS",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 15667,
+  "Nombre_Ciudad": "SAN LUIS DE GACENO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 85325,
+  "Nombre_Ciudad": "SAN LUIS DE PALENQUE",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 70708,
+  "Nombre_Ciudad": "SAN MARCOS",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 20770,
+  "Nombre_Ciudad": "SAN MARTÍN",
+  "Departamento": "Cesar"
+ },
+  
+ {
+  "Codigo_Ciudad": 50689,
+  "Nombre_Ciudad": "SAN MARTÍN",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 13667,
+  "Nombre_Ciudad": "SAN MARTÍN DE LOBA",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 15673,
+  "Nombre_Ciudad": "SAN MATEO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 68686,
+  "Nombre_Ciudad": "SAN MIGUEL",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 86757,
+  "Nombre_Ciudad": "SAN MIGUEL",
+  "Departamento": "Putumayo"
+ },
+ {
+  "Codigo_Ciudad": 15676,
+  "Nombre_Ciudad": "SAN MIGUEL DE SEMA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 70713,
+  "Nombre_Ciudad": "SAN ONOFRE",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 13670,
+  "Nombre_Ciudad": "SAN PABLO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 52693,
+  "Nombre_Ciudad": "SAN PABLO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 15681,
+  "Nombre_Ciudad": "SAN PABLO DE BORBUR",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 5664,
+  "Nombre_Ciudad": "SAN PEDRO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 70717,
+  "Nombre_Ciudad": "SAN PEDRO",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 76670,
+  "Nombre_Ciudad": "SAN PEDRO",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 52694,
+  "Nombre_Ciudad": "SAN PEDRO DE CARTAGO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 5665,
+  "Nombre_Ciudad": "SAN PEDRO DE URABA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 23686,
+  "Nombre_Ciudad": "SAN PELAYO",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 5667,
+  "Nombre_Ciudad": "SAN RAFAEL",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5670,
+  "Nombre_Ciudad": "SAN ROQUE",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 19693,
+  "Nombre_Ciudad": "SAN SEBASTIÁN",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 47692,
+  "Nombre_Ciudad": "SAN SEBASTIÁN DE BUENAVISTA",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 5674,
+  "Nombre_Ciudad": "SAN VICENTE",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 68689,
+  "Nombre_Ciudad": "SAN VICENTE DE CHUCURÍ",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 18753,
+  "Nombre_Ciudad": "SAN VICENTE DEL CAGUÁN",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 47703,
+  "Nombre_Ciudad": "SAN ZENÓN",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 52683,
+  "Nombre_Ciudad": "SANDONÁ",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 47707,
+  "Nombre_Ciudad": "SANTA ANA",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 5679,
+  "Nombre_Ciudad": "SANTA BÁRBARA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 52696,
+  "Nombre_Ciudad": "SANTA BÁRBARA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 68705,
+  "Nombre_Ciudad": "SANTA BÁRBARA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 47720,
+  "Nombre_Ciudad": "SANTA BÁRBARA DE PINTO",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 13673,
+  "Nombre_Ciudad": "SANTA CATALINA",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 68720,
+  "Nombre_Ciudad": "SANTA HELENA DEL OPÓN",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 73686,
+  "Nombre_Ciudad": "SANTA ISABEL",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 8675,
+  "Nombre_Ciudad": "SANTA LUCÍA",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 15690,
+  "Nombre_Ciudad": "SANTA MARÍA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 41676,
+  "Nombre_Ciudad": "SANTA MARÍA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 47001,
+  "Nombre_Ciudad": "SANTA MARTA",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 13683,
+  "Nombre_Ciudad": "SANTA ROSA",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 19701,
+  "Nombre_Ciudad": "SANTA ROSA",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 66682,
+  "Nombre_Ciudad": "SANTA ROSA DE CABAL",
+  "Departamento": "Risaralda"
+ },
+ {
+  "Codigo_Ciudad": 5686,
+  "Nombre_Ciudad": "SANTA ROSA DE OSOS",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15693,
+  "Nombre_Ciudad": "SANTA ROSA DE VITERBO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 13688,
+  "Nombre_Ciudad": "SANTA ROSA DEL SUR",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 99624,
+  "Nombre_Ciudad": "SANTA ROSALÍA",
+  "Departamento": "Vichada"
+ },
+ {
+  "Codigo_Ciudad": 15696,
+  "Nombre_Ciudad": "SANTA SOFÍA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 52699,
+  "Nombre_Ciudad": "SANTACRUZ",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 5042,
+  "Nombre_Ciudad": "SANTAFÉ DE ANTIOQUIA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15686,
+  "Nombre_Ciudad": "SANTANA",
+  "Departamento": "Boyacá"
+ },
+  
+ {
+  "Codigo_Ciudad": 19698,
+  "Nombre_Ciudad": "SANTANDER DE QUILICHAO",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 54680,
+  "Nombre_Ciudad": "SANTIAGO",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 86760,
+  "Nombre_Ciudad": "SANTIAGO",
+  "Departamento": "Putumayo"
+ },
+ {
+  "Codigo_Ciudad": 70820,
+  "Nombre_Ciudad": "SANTIAGO DE TOLÚ",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 5690,
+  "Nombre_Ciudad": "SANTO DOMINGO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 8685,
+  "Nombre_Ciudad": "SANTO TOMÁS",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 66687,
+  "Nombre_Ciudad": "SANTUARIO",
+  "Departamento": "Risaralda"
+ },
+ {
+  "Codigo_Ciudad": 52720,
+  "Nombre_Ciudad": "SAPUYES",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 81736,
+  "Nombre_Ciudad": "SARAVENA",
+  "Departamento": "Arauca"
+ },
+ {
+  "Codigo_Ciudad": 54720,
+  "Nombre_Ciudad": "SARDINATA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 25718,
+  "Nombre_Ciudad": "SASAIMA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15720,
+  "Nombre_Ciudad": "SATIVANORTE",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15723,
+  "Nombre_Ciudad": "SATIVASUR",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 5736,
+  "Nombre_Ciudad": "SEGOVIA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25736,
+  "Nombre_Ciudad": "SESQUILÉ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 76736,
+  "Nombre_Ciudad": "SEVILLA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 15740,
+  "Nombre_Ciudad": "SIACHOQUE",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25740,
+  "Nombre_Ciudad": "SIBATÉ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 86749,
+  "Nombre_Ciudad": "SIBUNDOY",
+  "Departamento": "Putumayo"
+ },
+ {
+  "Codigo_Ciudad": 54743,
+  "Nombre_Ciudad": "SILOS",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 25743,
+  "Nombre_Ciudad": "SILVANIA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 19743,
+  "Nombre_Ciudad": "SILVIA",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 68745,
+  "Nombre_Ciudad": "SIMACOTA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 25745,
+  "Nombre_Ciudad": "SIMIJACA",
+  "Departamento": "Cundinamarca"
+ },
+  
+ {
+  "Codigo_Ciudad": 13744,
+  "Nombre_Ciudad": "SIMITÍ",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 70742,
+  "Nombre_Ciudad": "SINCÉ",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 70001,
+  "Nombre_Ciudad": "SINCELEJO",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 27745,
+  "Nombre_Ciudad": "SIPÍ",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 47745,
+  "Nombre_Ciudad": "SITIONUEVO",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 25754,
+  "Nombre_Ciudad": "SOACHA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15753,
+  "Nombre_Ciudad": "SOATÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15757,
+  "Nombre_Ciudad": "SOCHA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 68755,
+  "Nombre_Ciudad": "SOCORRO",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 15755,
+  "Nombre_Ciudad": "SOCOTÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15759,
+  "Nombre_Ciudad": "SOGAMOSO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 18756,
+  "Nombre_Ciudad": "SOLANO",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 8758,
+  "Nombre_Ciudad": "SOLEDAD",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 18785,
+  "Nombre_Ciudad": "SOLITA",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 15761,
+  "Nombre_Ciudad": "SOMONDOCO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 5756,
+  "Nombre_Ciudad": "SONSON",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5761,
+  "Nombre_Ciudad": "SOPETRÁN",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 13760,
+  "Nombre_Ciudad": "SOPLAVIENTO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 25758,
+  "Nombre_Ciudad": "SOPÓ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15762,
+  "Nombre_Ciudad": "SORA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15764,
+  "Nombre_Ciudad": "SORACÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15763,
+  "Nombre_Ciudad": "SOTAQUIRÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 19760,
+  "Nombre_Ciudad": "SOTARA",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 68770,
+  "Nombre_Ciudad": "SUAITA",
+  "Departamento": "Santander"
+ },
+  
+ {
+  "Codigo_Ciudad": 8770,
+  "Nombre_Ciudad": "SUAN",
+  "Departamento": "Atlántico"
+ },
+ {
+  "Codigo_Ciudad": 19780,
+  "Nombre_Ciudad": "SUÁREZ",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 73770,
+  "Nombre_Ciudad": "SUÁREZ",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 41770,
+  "Nombre_Ciudad": "SUAZA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 25769,
+  "Nombre_Ciudad": "SUBACHOQUE",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 19785,
+  "Nombre_Ciudad": "SUCRE",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 68773,
+  "Nombre_Ciudad": "SUCRE",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 70771,
+  "Nombre_Ciudad": "SUCRE",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 25772,
+  "Nombre_Ciudad": "SUESCA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25777,
+  "Nombre_Ciudad": "SUPATÁ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 17777,
+  "Nombre_Ciudad": "SUPÍA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 68780,
+  "Nombre_Ciudad": "SURATÁ",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 25779,
+  "Nombre_Ciudad": "SUSA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15774,
+  "Nombre_Ciudad": "SUSACÓN",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15776,
+  "Nombre_Ciudad": "SUTAMARCHÁN",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25781,
+  "Nombre_Ciudad": "SUTATAUSA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15778,
+  "Nombre_Ciudad": "SUTATENZA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25785,
+  "Nombre_Ciudad": "TABIO",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 27787,
+  "Nombre_Ciudad": "TADÓ",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 13780,
+  "Nombre_Ciudad": "TALAIGUA NUEVO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 20787,
+  "Nombre_Ciudad": "TAMALAMEQUE",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 85400,
+  "Nombre_Ciudad": "TÁMARA",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 81794,
+  "Nombre_Ciudad": "TAME",
+  "Departamento": "Arauca"
+ },
+ {
+  "Codigo_Ciudad": 5789,
+  "Nombre_Ciudad": "TÁMESIS",
+  "Departamento": "Antioquia"
+ },
+  
+ {
+  "Codigo_Ciudad": 52786,
+  "Nombre_Ciudad": "TAMINANGO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 52788,
+  "Nombre_Ciudad": "TANGUA",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 97666,
+  "Nombre_Ciudad": "TARAIRA",
+  "Departamento": "Vaupés"
+ },
+ {
+  "Codigo_Ciudad": 91798,
+  "Nombre_Ciudad": "TARAPACÁ",
+  "Departamento": "Amazonas"
+ },
+ {
+  "Codigo_Ciudad": 5790,
+  "Nombre_Ciudad": "TARAZÁ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 41791,
+  "Nombre_Ciudad": "TARQUI",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 5792,
+  "Nombre_Ciudad": "TARSO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15790,
+  "Nombre_Ciudad": "TASCO",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 85410,
+  "Nombre_Ciudad": "TAURAMENA",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 25793,
+  "Nombre_Ciudad": "TAUSA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 41799,
+  "Nombre_Ciudad": "TELLO",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 25797,
+  "Nombre_Ciudad": "TENA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 47798,
+  "Nombre_Ciudad": "TENERIFE",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 25799,
+  "Nombre_Ciudad": "TENJO",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15798,
+  "Nombre_Ciudad": "TENZA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 54800,
+  "Nombre_Ciudad": "TEORAMA",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 41801,
+  "Nombre_Ciudad": "TERUEL",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 41797,
+  "Nombre_Ciudad": "TESALIA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 25805,
+  "Nombre_Ciudad": "TIBACUY",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15804,
+  "Nombre_Ciudad": "TIBANÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15806,
+  "Nombre_Ciudad": "TIBASOSA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25807,
+  "Nombre_Ciudad": "TIBIRITA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 54810,
+  "Nombre_Ciudad": "TIBÚ",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 23807,
+  "Nombre_Ciudad": "TIERRALTA",
+  "Departamento": "Córdoba"
+ },
+  
+ {
+  "Codigo_Ciudad": 41807,
+  "Nombre_Ciudad": "TIMANÁ",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 19807,
+  "Nombre_Ciudad": "TIMBÍO",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 19809,
+  "Nombre_Ciudad": "TIMBIQUÍ",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 15808,
+  "Nombre_Ciudad": "TINJACÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15810,
+  "Nombre_Ciudad": "TIPACOQUE",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 13810,
+  "Nombre_Ciudad": "TIQUISIO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 5809,
+  "Nombre_Ciudad": "TITIRIBÍ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15814,
+  "Nombre_Ciudad": "TOCA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25815,
+  "Nombre_Ciudad": "TOCAIMA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25817,
+  "Nombre_Ciudad": "TOCANCIPÁ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15816,
+  "Nombre_Ciudad": "TOGÜÍ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 5819,
+  "Nombre_Ciudad": "TOLEDO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 54820,
+  "Nombre_Ciudad": "TOLEDO",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 70823,
+  "Nombre_Ciudad": "TOLÚ VIEJO",
+  "Departamento": "Sucre"
+ },
+ {
+  "Codigo_Ciudad": 68820,
+  "Nombre_Ciudad": "TONA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 15820,
+  "Nombre_Ciudad": "TÓPAGA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25823,
+  "Nombre_Ciudad": "TOPAIPÍ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 19821,
+  "Nombre_Ciudad": "TORIBIO",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 76823,
+  "Nombre_Ciudad": "TORO",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 15822,
+  "Nombre_Ciudad": "TOTA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 19824,
+  "Nombre_Ciudad": "TOTORÓ",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 85430,
+  "Nombre_Ciudad": "TRINIDAD",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 76828,
+  "Nombre_Ciudad": "TRUJILLO",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 8832,
+  "Nombre_Ciudad": "TUBARÁ",
+  "Departamento": "Atlántico"
+ },
+  
+ {
+  "Codigo_Ciudad": 76834,
+  "Nombre_Ciudad": "TULUÁ",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 52835,
+  "Nombre_Ciudad": "TUMACO",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 15001,
+  "Nombre_Ciudad": "TUNJA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15832,
+  "Nombre_Ciudad": "TUNUNGUÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 52838,
+  "Nombre_Ciudad": "TÚQUERRES",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 13836,
+  "Nombre_Ciudad": "TURBACO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 13838,
+  "Nombre_Ciudad": "TURBANÁ",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 5837,
+  "Nombre_Ciudad": "TURBO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 15835,
+  "Nombre_Ciudad": "TURMEQUÉ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15837,
+  "Nombre_Ciudad": "TUTA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 15839,
+  "Nombre_Ciudad": "TUTAZÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25839,
+  "Nombre_Ciudad": "UBALÁ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25841,
+  "Nombre_Ciudad": "UBAQUE",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 76845,
+  "Nombre_Ciudad": "ULLOA",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 15842,
+  "Nombre_Ciudad": "UMBITA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25845,
+  "Nombre_Ciudad": "UNE",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 27800,
+  "Nombre_Ciudad": "UNGUÍA",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 27810,
+  "Nombre_Ciudad": "UNIÓN PANAMERICANA",
+  "Departamento": "Chocó"
+ },
+ {
+  "Codigo_Ciudad": 5842,
+  "Nombre_Ciudad": "URAMITA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 50370,
+  "Nombre_Ciudad": "URIBE",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 44847,
+  "Nombre_Ciudad": "URIBIA",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 5847,
+  "Nombre_Ciudad": "URRAO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 44855,
+  "Nombre_Ciudad": "URUMITA",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 8849,
+  "Nombre_Ciudad": "USIACURÍ",
+  "Departamento": "Atlántico"
+ },
+  
+ {
+  "Codigo_Ciudad": 25851,
+  "Nombre_Ciudad": "ÚTICA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 5854,
+  "Nombre_Ciudad": "VALDIVIA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 23855,
+  "Nombre_Ciudad": "VALENCIA",
+  "Departamento": "Córdoba"
+ },
+ {
+  "Codigo_Ciudad": 68855,
+  "Nombre_Ciudad": "VALLE DE SAN JOSÉ",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 73854,
+  "Nombre_Ciudad": "VALLE DE SAN JUAN",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 86865,
+  "Nombre_Ciudad": "VALLE DEL GUAMUEZ",
+  "Departamento": "Putumayo"
+ },
+ {
+  "Codigo_Ciudad": 20001,
+  "Nombre_Ciudad": "VALLEDUPAR",
+  "Departamento": "Cesar"
+ },
+ {
+  "Codigo_Ciudad": 5856,
+  "Nombre_Ciudad": "VALPARAÍSO",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 18860,
+  "Nombre_Ciudad": "VALPARAÍSO",
+  "Departamento": "Caquetá"
+ },
+ {
+  "Codigo_Ciudad": 5858,
+  "Nombre_Ciudad": "VEGACHÍ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 68861,
+  "Nombre_Ciudad": "VÉLEZ",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 73861,
+  "Nombre_Ciudad": "VENADILLO",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 5861,
+  "Nombre_Ciudad": "VENECIA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 25506,
+  "Nombre_Ciudad": "VENECIA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15861,
+  "Nombre_Ciudad": "VENTAQUEMADA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25862,
+  "Nombre_Ciudad": "VERGARA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 76863,
+  "Nombre_Ciudad": "VERSALLES",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 68867,
+  "Nombre_Ciudad": "VETAS",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 25867,
+  "Nombre_Ciudad": "VIANÍ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 17867,
+  "Nombre_Ciudad": "VICTORIA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 5873,
+  "Nombre_Ciudad": "VIGÍA DEL FUERTE",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 76869,
+  "Nombre_Ciudad": "VIJES",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 54871,
+  "Nombre_Ciudad": "VILLA CARO",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 15407,
+  "Nombre_Ciudad": "VILLA DE LEYVA",
+  "Departamento": "Boyacá"
+ },
+  
+ {
+  "Codigo_Ciudad": 25843,
+  "Nombre_Ciudad": "VILLA DE SAN DIEGO DE UBATE",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 54874,
+  "Nombre_Ciudad": "VILLA DEL ROSARIO",
+  "Departamento": "Norte de Santander"
+ },
+ {
+  "Codigo_Ciudad": 19845,
+  "Nombre_Ciudad": "VILLA RICA",
+  "Departamento": "Cauca"
+ },
+ {
+  "Codigo_Ciudad": 86885,
+  "Nombre_Ciudad": "VILLAGARZÓN",
+  "Departamento": "Putumayo"
+ },
+ {
+  "Codigo_Ciudad": 25871,
+  "Nombre_Ciudad": "VILLAGÓMEZ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 73870,
+  "Nombre_Ciudad": "VILLAHERMOSA",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 17873,
+  "Nombre_Ciudad": "VILLAMARÍA",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 13873,
+  "Nombre_Ciudad": "VILLANUEVA",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 44874,
+  "Nombre_Ciudad": "VILLANUEVA",
+  "Departamento": "La Guajira"
+ },
+ {
+  "Codigo_Ciudad": 68872,
+  "Nombre_Ciudad": "VILLANUEVA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 85440,
+  "Nombre_Ciudad": "VILLANUEVA",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 25873,
+  "Nombre_Ciudad": "VILLAPINZÓN",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 73873,
+  "Nombre_Ciudad": "VILLARRICA",
+  "Departamento": "Tolima"
+ },
+ {
+  "Codigo_Ciudad": 50001,
+  "Nombre_Ciudad": "VILLAVICENCIO",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 41872,
+  "Nombre_Ciudad": "VILLAVIEJA",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 25875,
+  "Nombre_Ciudad": "VILLETA",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25878,
+  "Nombre_Ciudad": "VIOTÁ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 15879,
+  "Nombre_Ciudad": "VIRACACHÁ",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 50711,
+  "Nombre_Ciudad": "VISTAHERMOSA",
+  "Departamento": "Meta"
+ },
+ {
+  "Codigo_Ciudad": 17877,
+  "Nombre_Ciudad": "VITERBO",
+  "Departamento": "Caldas"
+ },
+ {
+  "Codigo_Ciudad": 25885,
+  "Nombre_Ciudad": "YACOPÍ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 52885,
+  "Nombre_Ciudad": "YACUANQUER",
+  "Departamento": "Nariño"
+ },
+ {
+  "Codigo_Ciudad": 41885,
+  "Nombre_Ciudad": "YAGUARÁ",
+  "Departamento": "Huila"
+ },
+ {
+  "Codigo_Ciudad": 5885,
+  "Nombre_Ciudad": "YALÍ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5887,
+  "Nombre_Ciudad": "YARUMAL",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 97889,
+  "Nombre_Ciudad": "YAVARATÉ",
+  "Departamento": "Vaupés"
+ },
+ {
+  "Codigo_Ciudad": 5890,
+  "Nombre_Ciudad": "YOLOMBÓ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 5893,
+  "Nombre_Ciudad": "YONDÓ",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 85001,
+  "Nombre_Ciudad": "YOPAL",
+  "Departamento": "Casanare"
+ },
+ {
+  "Codigo_Ciudad": 76890,
+  "Nombre_Ciudad": "YOTOCO",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 76892,
+  "Nombre_Ciudad": "YUMBO",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 13894,
+  "Nombre_Ciudad": "ZAMBRANO",
+  "Departamento": "Bolívar"
+ },
+ {
+  "Codigo_Ciudad": 68895,
+  "Nombre_Ciudad": "ZAPATOCA",
+  "Departamento": "Santander"
+ },
+ {
+  "Codigo_Ciudad": 47960,
+  "Nombre_Ciudad": "ZAPAYÁN",
+  "Departamento": "Magdalena"
+ },
+ {
+  "Codigo_Ciudad": 5895,
+  "Nombre_Ciudad": "ZARAGOZA",
+  "Departamento": "Antioquia"
+ },
+ {
+  "Codigo_Ciudad": 76895,
+  "Nombre_Ciudad": "ZARZAL",
+  "Departamento": "Valle del Cauca"
+ },
+ {
+  "Codigo_Ciudad": 15897,
+  "Nombre_Ciudad": "ZETAQUIRA",
+  "Departamento": "Boyacá"
+ },
+ {
+  "Codigo_Ciudad": 25898,
+  "Nombre_Ciudad": "ZIPACÓN",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 25899,
+  "Nombre_Ciudad": "ZIPAQUIRÁ",
+  "Departamento": "Cundinamarca"
+ },
+ {
+  "Codigo_Ciudad": 47980,
+  "Nombre_Ciudad": "ZONA BANANERA",
+  "Departamento": "Magdalena"
+ }
+]

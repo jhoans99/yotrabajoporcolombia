@@ -12,7 +12,6 @@ export class CarrouselService {
   ) { }
 
   getCarrosuel(){
-    //return this.http.get('https://yotrabajoporcolombiapruebas.000webhostapp.com/Slider.php')
     return this.http.get('http://servicios.yotrabajoporcolombiaprueba.site/Slider.php',{},{})
   }
 }

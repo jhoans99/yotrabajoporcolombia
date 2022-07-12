@@ -9,6 +9,10 @@ import { AppRoutingModule } from './app-routing.module';
 import { HttpClientModule } from '@angular/common/http';
 import { HTTP } from '@awesome-cordova-plugins/http/ngx';
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
+import { NativeStorage } from '@awesome-cordova-plugins/native-storage/ngx';
+import { HttpClient } from '@angular/common/http';
+import { Camera } from '@ionic-native/Camera/ngx';
+import { File } from '@ionic-native/file/ngx';
 
 
 @NgModule({
@@ -20,7 +24,9 @@ import { ReactiveFormsModule, FormsModule } from '@angular/forms';
     HttpClientModule,
     ReactiveFormsModule,
     FormsModule],
-  providers: [{ provide: RouteReuseStrategy, useClass: IonicRouteStrategy },HTTP],
+  providers: [{ provide: RouteReuseStrategy, useClass: IonicRouteStrategy },
+    HTTP,NativeStorage,HttpClient,Camera,
+    File],
   bootstrap: [AppComponent],
 })
 export class AppModule {}

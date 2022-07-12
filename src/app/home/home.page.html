@@ -1,19 +1,22 @@
-<ion-header [translucent]="true">
-  <ion-toolbar>  
-    <ion-fab-button size="small" class="ion-fab"><ion-icon name="search"></ion-icon></ion-fab-button>
-  <ion-fab-button size="small" class="ion-fab" (tap)="navLogin()" routerLink="/login"> <ion-icon name="person"></ion-icon></ion-fab-button>
+<ion-header [translucent]="true" >
+  <ion-toolbar class="new-background-color">
+    <ion-item class="new-background-color">
+      <img src="../../assets/icons/yo-trabajo-blanco.png" style="display:inline-block" height="80rem" width="120rem"/>  
+      <ion-fab-button size="small" class="ion-fab" slot="end" ><ion-icon name="search"></ion-icon></ion-fab-button>
+      <ion-fab-button size="small" class="ion-fab" *ngIf="showLogin" routerLink="/login" slot="end"> <ion-icon name="person"></ion-icon></ion-fab-button>
+      <ion-fab-button size="small"  *ngIf="!showLogin" routerLink="/profile" slot="end"> <img [src]="myCustomIcon" /></ion-fab-button>
+    </ion-item>
   </ion-toolbar>
-
 </ion-header>
 
-<ion-content [fullscreen]="true">
+<ion-content [fullscreen]="true" class="ion-padding">
 
-  <ion-slides  style="height: 40%;" [options]="slideOptsOne">
+  <ion-slides  style="height: 20rem;" [options]="slideOptsOne">
     <ion-slide *ngFor="let item of listCarrousel">
       <ion-card style="background: #acabab !important;">
         <ion-card-content>
-          <img src="{{item.image}}" />
-          <h2  style="text-shadow: 0.125em 0.125em #000; font-weight: bold; color: white;"> <b>{{item.title}}</b></h2>
+          <img src="{{item.image}}" height="15rem"/>
+          <h2  style="text-shadow: 0.125em 0.125em #000; font-weight: bold; color: white;"><b>{{item.title}}</b></h2>
         </ion-card-content>
       </ion-card>
     </ion-slide>
@@ -22,40 +25,40 @@
   <ion-grid>
     <ion-row class="ion-no-padding">
       <ion-col col-6 class="ion-no-padding" >
-        <ion-card class="ion-no-padding" >
+        <ion-card class="ion-no-padding" style="height: 8rem; background: white !important;">
         <ion-item class="ion-no-padding" lines="none">
-          <img src="../../assets/icons/icons8-transporte-de-agua-50.png" style="padding: .4rem;" height="50rem" width="50rem" item-left/>
-          <div style="padding: 1rem;">
-            <p style="font-size: .8rem; font-weight: 600; color: #363f4d; padding: .1rem; ">Envios a todo el pais</p>
-            <p style="font-size: .5rem; color: #363f4d;">Tenemos convenios con las principales empresas transportadoras del país</p>
+          <img src="../../assets/icons/colombia-64.png" style="padding: .4rem;" height="50rem" width="50rem" item-left/>
+          <div style="padding: .5rem;">
+            <p style="font-size: .7rem; font-weight: 600; color: #363f4d; ">Envios a todo el pais</p>
+            <p style="font-size: .5rem; color: #363f4d; text-align:justify;">Tenemos convenios con las principales empresas transportadoras del país</p>
           </div>
        </ion-item>
       </ion-card>
-      <ion-card class="ion-no-padding" >
+      <ion-card class="ion-no-padding" style="height: 8rem; background: white !important;">
        <ion-item class="ion-no-padding" lines="none">
-        <img src="../../assets/icons/icons8-transporte-de-agua-50.png" style="padding: .4rem;" height="50rem" width="50rem" item-left/>
-        <div style="padding: 1rem;">
-          <p style="font-size: .8rem; font-weight: 600;color: #363f4d;" >Medios de pago</p>
+        <img src="../../assets/icons/payment-64.png" style="padding: .4rem;" height="50rem" width="50rem" item-left/>
+        <div style="padding: .5rem;">
+          <p style="font-size: .7rem; font-weight: 600;color: #363f4d;" >Medios de pago</p>
           <p style="font-size: .5rem; color: #363f4d;">Paga a través de Nequi, Daviplata o realizando una consignación Bancaria</p>
         </div>
       </ion-item>
     </ion-card>
   </ion-col>
   <ion-col col-6 class="ion-no-padding" >
-    <ion-card class="ion-no-padding" >
+    <ion-card class="ion-no-padding" style="height: 8rem; background: white !important;">
       <ion-item class="ion-no-padding" lines="none">
         <img src="../../assets/icons/icons8-transporte-de-agua-50.png" style="padding: .4rem;" height="50rem" width="50rem" item-left/>
-        <div style="padding: 1rem;">
-          <p style="font-size: .8rem; font-weight: 600; color: #363f4d;">Prodcutos nacionales</p>
+        <div style="padding: .5rem;">
+          <p style="font-size: .7rem; font-weight: 600; color: #363f4d;">Prodcutos nacionales</p>
           <p style="font-size: .5rem; color: #363f4d; ">Todos nuestros productos son realizados por empresarios Colombianos</p>
         </div>
       </ion-item>
     </ion-card>
-    <ion-card class="ion-no-padding" >
+    <ion-card class="ion-no-padding" style="height: 8rem; background: white !important;">
       <ion-item class="ion-no-padding" lines="none">
         <img src="../../assets/icons/icons8-transporte-de-agua-50.png" style="padding: .4rem;"  height="50rem" width="50rem" item-left/>
-        <div style="padding: 1rem;">
-          <p style="font-size: .8rem; font-weight: 600; color: #363f4d;" class="ion-no-padding">Servicio al cliente</p>
+        <div style="padding: .5rem;">
+          <p style="font-size: .7rem; font-weight: 600; color: #363f4d;" class="ion-no-padding">Servicio al cliente</p>
           <p style="font-size: .5rem; color: #363f4d; ">Tienes contacto directo con el proveedor del producto</p>
         </div>
       </ion-item>
@@ -66,55 +69,180 @@
 
 <ion-grid>
   <ion-row>
-    <ion-col col-12 class="ion-no-padding">
-      <ion-card style="max-width: 10rem;">
+    <ion-col size="12">
+      <ion-slides [options]="slideOptsOne">
+        <ion-slide *ngFor="let item of listFeaturedProducts" (click)="goToDetailProduct(item)">
+          <ion-card style="background: white !important;">
+            <ion-card-header>
+              <ion-title style="font-weight: bold;">Producto destacado</ion-title>
+            </ion-card-header>
+            <ion-card-content>
+              <ion-slides>
+                <ion-slide *ngFor="let itemImg of item.imagenes">
+                  <img src="http://{{itemImg}}"   style="max-height: 15rem;  width: 100%; display: block;"/>
+                </ion-slide>
+              </ion-slides>
+              <div>
+                <ion-row class="ion-no-padding">
+                  <ion-card style="max-width: 12rem; background-color: #153f72; margin-top: 5%;"  *ngFor="let itemSendM of item.medios_envio">
+                    <ion-card-content style="color: white; font-weight: bold; ">{{itemSendM}}</ion-card-content>
+                  </ion-card>
+                </ion-row>
+                <ion-row class="ion-padding">
+                  <ion-label>{{item.descripcion}}</ion-label>
+                </ion-row>
+                <ion-row class="ion-padding">
+                  <ion-label style="font-weight: bold;">${{item.precio}}</ion-label>
+                </ion-row>
+              </div>
+            </ion-card-content>
+          </ion-card>
+        </ion-slide>
+      </ion-slides>
+    </ion-col>
+  </ion-row>
+</ion-grid>
+
+<ion-grid>
+  <ion-row>
+    <ion-col size="12" class="ion-no-padding">
+      <ion-card style="max-width: 10rem;" class="background-color-card">
         <ion-card-content style="color: white; font-weight: bold;">Accesios</ion-card-content>
       </ion-card>
-      <ion-card style="background: #acabab !important;">
-        <ion-card-content>
-          <img src="../../assets/icons/Banner Curso Escuela Virtual Yo Trabajo por Colombia-06.jpeg" />
-          <h2 style="text-shadow: 0.125em 0.125em #000; font-weight: bold; color: white;"> <b>Eventos y ferias comerciales</b></h2>
-        </ion-card-content>
-      </ion-card>
+      <div style="width: 100% !important; min-width: 100%;">
+        <ion-slides  style="height: 40%; width: 100% !important; min-width: 100% !important;" >
+            <ion-slide *ngFor="let item of listProductsAccessories" (click)="goToDetailProduct(item)">
+            <ion-card style="background: white !important;">
+              <ion-card-content>
+                <ion-slides>
+                  <ion-slide *ngFor="let itemImg of item.imagenes">
+                    <img src="http://{{itemImg}}"   style="max-height: 15rem;  width: 100%; display: block;"/>
+                  </ion-slide>
+                </ion-slides>
+                <div>
+                  <ion-row class="ion-no-padding">
+                    <ion-card style="max-width: 12rem; background-color: #153f72; margin-top: 5%;"  *ngFor="let itemSendM of item.medios_envio">
+                      <ion-card-content style="color: white; font-weight: bold; ">{{itemSendM}}</ion-card-content>
+                    </ion-card>
+                  </ion-row>
+                  <ion-row class="ion-padding">
+                    <ion-label>{{item.descripcion}}</ion-label>
+                  </ion-row>
+                  <ion-row class="ion-padding">
+                    <ion-label style="font-weight: bold;">${{item.precio}}</ion-label>
+                  </ion-row>
+                </div>
+              </ion-card-content>
+            </ion-card>
+          </ion-slide>
+        </ion-slides>
+      </div>
     </ion-col>
   </ion-row>
   <ion-row>
-    <ion-col col-12 text-center class="ion-no-padding">
-      <ion-card style="max-width: 10rem;">
+    <ion-col size="12" text-center class="ion-no-padding">
+      <ion-card style="max-width: 10rem;" class="background-color-card">
         <ion-card-content style="color: white; font-weight: bold;">Alimentos</ion-card-content>
       </ion-card>
-      <ion-card style="background: #acabab !important;">
-        <ion-card-content>
-          <img src="../../assets/icons/Banner Curso Escuela Virtual Yo Trabajo por Colombia-06.jpeg" />
-          <h2 style="text-shadow: 0.125em 0.125em #000; font-weight: bold; color: white;"> <b>Eventos y ferias comerciales</b></h2>
-        </ion-card-content>
-      </ion-card>
+      <div style="width: 100% !important; min-width: 100%;">
+        <ion-slides  style="height: 40%; width: 100% !important; min-width: 100% !important;" >
+            <ion-slide *ngFor="let item of listProductsFood" (click)="goToDetailProduct(item)">
+            <ion-card style="background: white !important;">
+              <ion-card-content>
+                <ion-slides>
+                  <ion-slide *ngFor="let itemImg of item.imagenes" >
+                    <img src="http://{{itemImg}}" style="max-height: 15rem; width: 100%; display: block;"/>
+                  </ion-slide>
+                </ion-slides>
+                <div>
+                  <ion-row class="ion-no-padding">
+                    <ion-card style="max-width: 12rem; background-color: #153f72; margin: 5%;" *ngFor="let itemSendM of item.medios_envio">
+                      <ion-card-content style="color: white; font-weight: bold; " >{{itemSendM}}</ion-card-content>
+                    </ion-card>
+                  </ion-row>
+                  <ion-row class="ion-padding">
+                    <ion-label>{{item.descripcion}}</ion-label>
+                  </ion-row>
+                  <ion-row class="ion-padding">
+                    <ion-label style="font-weight: bold;">${{item.precio}}</ion-label>
+                  </ion-row>
+                </div>
+              </ion-card-content>
+            </ion-card>
+          </ion-slide>
+        </ion-slides>
+      </div>
     </ion-col>
   </ion-row>
   <ion-row>
-    <ion-col col-12 text-center class="ion-no-padding">
-      <ion-card style="max-width: 10rem;">
+    <ion-col size="12" text-center class="ion-no-padding">
+      <ion-card style="max-width: 10rem;" class="background-color-card">
         <ion-card-content style="color: white; font-weight: bold;">Hogar</ion-card-content>
       </ion-card>
-      <ion-card style="background: #acabab !important;">
-        <ion-card-content>
-          <img src="../../assets/icons/Banner Curso Escuela Virtual Yo Trabajo por Colombia-06.jpeg" />
-          <h2 style="text-shadow: 0.125em 0.125em #000; font-weight: bold; color: white;"> <b>Eventos y ferias comerciales</b></h2>
-        </ion-card-content>
-      </ion-card>
+      <div style="width: 100% !important; min-width: 100%;">
+        <ion-slides  style="height: 40%; width: 100% !important; min-width: 100% !important;" >
+            <ion-slide *ngFor="let item of listProductsHome" (click)="goToDetailProduct(item)">
+            <ion-card style="background: white !important;">
+              <ion-card-content>
+                <ion-slides>
+                  <ion-slide *ngFor="let itemImg of item.imagenes">
+                    <img src="http://{{itemImg}}"  style="max-height: 15rem; width: 100%; display: block;"/>
+                  </ion-slide>
+                </ion-slides>
+                <div>
+                  <ion-row class="ion-no-padding">
+                    <ion-card style="max-width: 12rem; background-color: #153f72; margin: 5%;" *ngFor="let itemSendM of item.medios_envio">
+                      <ion-card-content style="color: white; font-weight: bold; " >{{itemSendM}}</ion-card-content>
+                    </ion-card>
+                  </ion-row>
+                  <ion-row class="ion-padding">
+                    <ion-label>{{item.descripcion}}</ion-label>
+                    
+                  </ion-row>
+                  <ion-row class="ion-padding">
+                    <ion-label style="font-weight: bold;">${{item.precio}}</ion-label>
+                  </ion-row>
+                </div>
+              </ion-card-content>
+            </ion-card>
+          </ion-slide>
+        </ion-slides>
+      </div>
     </ion-col>
   </ion-row>
     <ion-row>
-      <ion-col col-12 text-center class="ion-no-padding">
-        <ion-card style="max-width: 10rem;">
+      <ion-col size="12" text-center class="ion-no-padding">
+        <ion-card style="max-width: 10rem;" class="background-color-card">
           <ion-card-content style="color: white; font-weight: bold;">Ropa</ion-card-content>
         </ion-card>
-        <ion-card style="background: #acabab !important;">
-          <ion-card-content>
-            <img src="../../assets/icons/Banner Curso Escuela Virtual Yo Trabajo por Colombia-06.jpeg" />
-            <h2 style="text-shadow: 0.125em 0.125em #000; font-weight: bold; color: white;"> <b>Eventos y ferias comerciales</b></h2>
-          </ion-card-content>
-        </ion-card>
+        <div style="width: 100% !important; min-width: 100%;">
+          <ion-slides  style="height: 40%; width: 100% !important; min-width: 100% !important;" >
+              <ion-slide *ngFor="let item of listProductsClothes" (click)="goToDetailProduct(item)">
+              <ion-card style="background: white !important;">
+                <ion-card-content>
+                  <ion-slides>
+                    <ion-slide *ngFor="let itemImg of item.imagenes">
+                      <img src="http://{{itemImg}}" style="max-height: 15rem; width: 100%; display: block;"/>
+                    </ion-slide>
+                  </ion-slides>
+                  <div>
+                    <ion-row class="ion-no-padding">
+                      <ion-card style="max-width: 12rem; background-color: #153f72; margin: 5%;" *ngFor="let itemSendM of item.medios_envio">
+                        <ion-card-content style="color: white; font-weight: bold;" >{{itemSendM}}</ion-card-content>
+                      </ion-card>
+                    </ion-row>
+                    <ion-row class="ion-padding">
+                      <ion-label>{{item.descripcion}}</ion-label>
+                    </ion-row>
+                    <ion-row class="ion-padding">
+                      <ion-label style="font-weight: bold;">${{item.precio}}</ion-label>
+                    </ion-row>
+                  </div>
+                </ion-card-content>
+              </ion-card>
+            </ion-slide>
+          </ion-slides>
+        </div>
       </ion-col>
     </ion-row>
 </ion-grid> 

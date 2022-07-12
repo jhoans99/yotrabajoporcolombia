@@ -1,0 +1,91 @@
+
+<ion-content class="ion-padding">
+  <div style="padding: 3rem;">
+    <ion-label style="color: #363f4d ; font-weight: bold;  text-align: center;">Ingresa los siguientes datos para realizar tu registro</ion-label>
+  </div>
+  <div style="margin-top: 2rem;">
+    <form [formGroup]="form" form-style (ngSubmit)="logForm()">
+      <ion-item lines="none" class="box-item">
+        <ion-label   position="floating">Nombres</ion-label>
+        <ion-input type="text" name="names" id="names" formControlName="names" autocapitalize="none"></ion-input>
+      </ion-item>
+    
+      <ion-item lines="none" class="box-item">
+        <ion-label   position="floating">Apellidos</ion-label>
+        <ion-input type="text" name="lastnames" id="lastnames" formControlName="lastnames" autocapitalize="none"></ion-input>
+      </ion-item>
+    
+      <ion-item lines="none" class="box-item">
+        <ion-label   position="floating">Telefono</ion-label>
+        <ion-input type="text" name="phone" id="phone" formControlName="phone" autocapitalize="phone"></ion-input>
+      </ion-item>
+    
+      <ion-item lines="none" class="box-item">
+        <ion-label   position="floating">Ciudad</ion-label>
+        <ion-input type="text" name="city" id="city" formControlName="city" autocapitalize="none"></ion-input>
+      </ion-item>
+    
+      <ion-item lines="none" class="box-item">
+        <ion-label   position="floating">Correo electronico</ion-label>
+        <ion-input type="text" name="username" id="username" formControlName="username" autocapitalize="none"></ion-input>
+      </ion-item>
+    
+      <ion-item lines="none" class="box-item">
+        <ion-label position="floating">Contraseña</ion-label>
+        <ion-input type="password" name="password" id="password" formControlName="password" autocapitalize="none"></ion-input>
+      </ion-item>
+
+      <ion-item lines="none" class="remember-password" >
+        <ion-label >Deseo ser vendedor en el marketplace</ion-label>   
+        <ion-checkbox slot="start"  color="primary" mode="ios" formControlName="isSeller" ></ion-checkbox>
+      </ion-item>
+      <div *ngIf="form.value.isSeller">
+        <ion-label>¿Por qué medio le gustaria realizar sus ventas?. Puede seleccionar más de una opción y recuerde que esto lo podra editar más adelante en perfil</ion-label>
+        <div>
+          <ion-item lines="none" class="remember-password" >
+            <ion-label>Whatsapp</ion-label>   
+            <ion-checkbox slot="start" formControlName="isWhastapp"   color="primary" mode="ios"  ></ion-checkbox>
+          </ion-item>
+          <ion-item lines="none" class="box-item" *ngIf="form.value.isWhastapp">
+            <ion-label position="floating">Ingrese su número de Whatsapp</ion-label>
+            <ion-input type="password" name="whatsappNumber" id="whatsappNumber" formControlName="whatsappNumber"  autocapitalize="none"></ion-input>
+          </ion-item>
+          <ion-item lines="none" class="remember-password" >
+            <ion-label >Facebook</ion-label>   
+            <ion-checkbox slot="start"  formControlName="isFacebook" color="primary" mode="ios"  ></ion-checkbox>
+          </ion-item>
+          <ion-item lines="none" class="box-item" *ngIf="form.value.isFacebook">
+            <ion-label position="floating">Ingrese su url de Facebook</ion-label>
+            <ion-input type="password" name="urlFacebook" id="urlFacebook" formControlName="urlFacebook" autocapitalize="none"></ion-input>
+          </ion-item>
+          <ion-item lines="none" class="remember-password" >
+            <ion-label >Instagram</ion-label>   
+            <ion-checkbox slot="start"  color="primary" mode="ios"  formControlName="isInstagram" ></ion-checkbox>
+          </ion-item>
+          <ion-item lines="none" class="box-item"  *ngIf="form.value.isInstagram">
+            <ion-label position="floating">Ingrese su url de Instagram</ion-label>
+            <ion-input type="password" name="urlInstragram" id="urlInstragram" formControlName="urlInstragram"  autocapitalize="none"></ion-input>
+          </ion-item>
+          <ion-item lines="none" class="remember-password" >
+            <ion-label>Twitter</ion-label>   
+            <ion-checkbox slot="start"   color="primary" mode="ios"   formControlName="isTwitter" ></ion-checkbox>
+          </ion-item>
+          <ion-item lines="none" class="box-item" *ngIf="form.value.isTwitter">
+            <ion-label position="floating">Ingrese su url de Twitter</ion-label>
+            <ion-input type="password" name="urlTwitter" id="urlTwitter" formControlName="urlTwitter"  autocapitalize="none" ></ion-input>
+          </ion-item>
+        </div>
+      </div>
+    <ion-col col-12 >
+      <div style="float: right !important; margin-top: 10%;">
+        <ion-item lines="none" class="remember-password" >
+          <ion-label slot="end">Terminos y condiciones</ion-label>   
+          <ion-checkbox  color="primary" mode="ios"  ></ion-checkbox>
+        </ion-item>
+      </div>
+    </ion-col> 
+      <ion-button type="submit" [disabled]="!form.valid"  text-center>Registrate</ion-button>
+    </form>
+  </div>
+
+</ion-content>

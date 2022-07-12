@@ -1,0 +1,85 @@
+<ion-header translucent="true">
+  <ion-toolbar>
+    <ion-title>Agregar producto</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div style="margin-top: 2rem; padding: 5%;">
+    <form [formGroup]="form" form-style (ngSubmit)="uploadProduct()" >
+      <ion-item lines="none" class="box-item">
+        <ion-label   position="floating">Nombre del producto</ion-label>
+        <ion-input type="text" name="name" id="name" formControlName="name" autocapitalize="none"></ion-input>
+      </ion-item>
+
+      <ion-item class="box-item">
+        <ion-label  position="floating">Tipo de envio</ion-label>
+        <ion-select formControlName="type_shipping"  multiple="true">
+          <ion-select-option *ngFor="let item of listOptionWayToSend" value="{{item.medio}}">{{item.medio}}</ion-select-option>
+        </ion-select>
+      </ion-item>
+    
+      <ion-item lines="none" class="box-item">
+        <ion-label   position="floating">Costo del envio</ion-label>
+        <ion-input type="text" name="price_to_send" id="price_to_send" formControlName="price_to_send" autocapitalize="none"></ion-input>
+      </ion-item>
+
+      <ion-item class="box-item">
+        <ion-label  position="floating">Categoria del producto</ion-label>
+        <ion-select formControlName="category"  multiple="true">
+          <ion-select-option *ngFor="let item of listOptionCategories" value="{{item.categoria}}">{{item.categoria}}</ion-select-option>
+        </ion-select>
+      </ion-item>
+    
+    
+      <ion-item lines="none" class="box-item">
+        <ion-label   position="floating">Descripción del producto</ion-label>
+        <ion-input type="text" name="description" id="description" formControlName="description" autocapitalize="none"></ion-input>
+      </ion-item>
+    
+      <ion-item class="box-item">
+        <ion-label position="floating">Ciudad</ion-label>
+        <ion-select formControlName="city">
+          <ion-select-option *ngFor="let item of listCities" value="{{item.Nombre_Ciudad}}">{{item.Nombre_Ciudad}}</ion-select-option>
+        </ion-select>
+      </ion-item>
+
+      <ion-item class="box-item">
+        <ion-label position="floating">Metodos de pago</ion-label>
+        <ion-select formControlName="type_payment"  multiple="true">
+          <ion-select-option *ngFor="let item of listOptionPaymentMethod" value="{{item.metodo}}">{{item.metodo}}</ion-select-option>
+        </ion-select>
+      </ion-item>
+
+      <ion-item class="box-item">
+        <ion-label position="floating">Descuento sobre el producto</ion-label>
+        <ion-select formControlName="discount">
+          <ion-select-option *ngFor="let item of listDiscount" [value]="item.name">{{item.name}}</ion-select-option>
+        </ion-select>
+      </ion-item>
+
+      <ion-item lines="none" class="box-item">
+        <ion-label  position="floating">Precio del producto</ion-label>
+        <ion-input type="number" name="price" id="price" formControlName="price" autocapitalize="none"></ion-input>
+      </ion-item>
+
+    <ion-row>
+      <ion-col size="12">
+        <button ion-button (click)="selectImage()" >Seleccionar imagen</button>
+        <ion-slides *ngIf="showListSelectedImage">
+          <ion-slide *ngFor="let item of listSelectedImage">
+            <ion-card>
+              <img src="{{item.pathImage}}" width="10vh" height="10vh"/>
+            </ion-card>
+          </ion-slide>
+        </ion-slides>
+    </ion-col> 
+    </ion-row>
+    <ion-row>
+      <ion-col size="12" class="ion-text-center">
+        <ion-button type="submit"   text-center>Subir producto</ion-button>
+      </ion-col>
+    </ion-row>
+    </form>
+  </div>
+</ion-content>

@@ -1,0 +1,72 @@
+<ion-header [translucent]="true" >
+  <ion-toolbar class="new-background-color">
+    <ion-item class="new-background-color">
+      <img src="../../assets/icons/yo-trabajo-blanco.png" style="display:inline-block" height="80rem" width="120rem"/>  
+      <ion-fab-button size="small" class="ion-fab" slot="end" ><ion-icon name="search"></ion-icon></ion-fab-button>
+      <ion-fab-button size="small" class="ion-fab" *ngIf="showLogin" routerLink="/login" slot="end"> <ion-icon name="person"></ion-icon></ion-fab-button>
+      <ion-fab-button size="small"  *ngIf="!showLogin" routerLink="/profile" slot="end"> <img [src]="myCustomIcon" /></ion-fab-button>
+    </ion-item>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+
+  <ion-slides>
+    <ion-slide *ngFor="let item of pathImage">
+      <img src="http://{{item}}"  height="40rem" />
+    </ion-slide>
+  </ion-slides>
+
+  <ion-card class="background-color-card">
+    <ion-card-header style="font-weight: bold; font-size: 2rem;">{{productName}}</ion-card-header>
+    <ion-card-content>
+      <ion-label  style="font-size: 1rem; color: #153f72;">${{productPrice}}</ion-label>
+      <ion-card style="background: #153f72 !important; color: white !important; text-align: center !important;">Envio con normalidad</ion-card>
+      <p>{{producDescription}}</p>
+      <ion-card>
+
+      </ion-card>
+
+      <ion-card>
+        <ion-item>
+          <img src="../../../assets/icons/man.png" slot="start" height="25rem" width="25rem" />
+          <ion-label>{{nameSeller}} {{lastNameSeller}} <br> {{citySeller}} </ion-label>
+        </ion-item>
+      </ion-card>
+      
+      
+      <ion-title style="font-weight: bold; font-size: 1.2rem;">Medios de pago</ion-title>
+      <ion-item class="box-item">
+        <ion-label position="floating">Selecciona</ion-label>
+        <ion-select >
+          <ion-select-option *ngFor="let itemPay of typePayment" [value]="itemPay">{{itemPay}}</ion-select-option>
+        </ion-select>
+      </ion-item>
+
+      <ion-title style="font-weight: bold; font-size: 1.2rem;">Medios de envio</ion-title>
+      <ion-item class="box-item">
+        <ion-label position="floating">Selecciona</ion-label>
+        <ion-select >
+          <ion-select-option *ngFor="let itemSend of typeSend" [value]="itemSend" >{{itemSend}}</ion-select-option>
+        </ion-select>
+      </ion-item>
+
+      <ion-title style="font-weight: bold; font-size: .8rem;">Contacto del vendedor</ion-title>
+      <ion-row>
+        <ion-col size="3"  *ngIf="showContactWhastapp">
+          <img src="../../../assets/icons/whatsapp.svg" height="30rem" width="30rem"/>
+        </ion-col>
+        <ion-col size="3"  *ngIf="showContactFacebook">
+          <img src="../../../assets/icons/facebook.svg" height="30rem" width="30rem"/>
+        </ion-col>
+        <ion-col size="3"  *ngIf="showContactInstagram">
+          <img src="../../../assets/icons/instagram.svg" height="30rem" width="30rem"/>
+        </ion-col>
+        <ion-col size="3"  *ngIf="showContactTwitter">
+          <img src="../../../assets/icons/twitter.svg" height="30rem" width="30rem"/>
+        </ion-col>
+      </ion-row>
+    </ion-card-content>
+  </ion-card>
+
+</ion-content>

@@ -1,0 +1,30 @@
+<ion-header [translucent]="true" >
+  <ion-toolbar class="new-background-color">
+    <ion-item class="new-background-color">
+      <img src="../../assets/icons/yo-trabajo-blanco.png" style="display:inline-block" height="80rem" width="120rem"/>  
+      <ion-fab-button size="small" class="ion-fab" slot="end" ><ion-icon name="search"></ion-icon></ion-fab-button>
+      <ion-fab-button size="small" class="ion-fab" *ngIf="showLogin" routerLink="/login" slot="end"> <ion-icon name="person"></ion-icon></ion-fab-button>
+      <ion-fab-button size="small"  *ngIf="!showLogin" routerLink="/profile" slot="end"> <img [src]="myCustomIcon" /></ion-fab-button>
+    </ion-item>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <ion-card class="background-color-card">
+    <ion-card-header>
+      <ion-title>HUB Bucaramanga</ion-title>
+    </ion-card-header>
+    <ion-card-content>
+      <div>
+        <p class="text-aligment">Y el 2 de octubre se organizó la feria comercial del programa Yo trabajo por Colombia en el parque Santander, entre las 9:00 a:m y 4:00 pm con el propósito de ofertar sus productos y servicios. entre los cuales se destacaron la venta de alimentos, artesanías y confección. Las Ventas en sitio Total $ 3.681.600 y proyectadas $ 770.000.</p>
+        <ion-row>
+          <ion-col size="12">
+            <img src="../../../assets/icons/hub-bucaramanga.jpeg" alt="" />
+          </ion-col>
+        </ion-row>
+        <p class="text-aligment">Aproximadamente de 45 empresarios del programa, manifestaron su agradecimiento y alegría por la oportunidad de estas actividades que les brindaron conocimientos y al mismo tiempo la práctica para fortalecer sus modelos de negocio, para algunos era la primera vez en participar en un evento comercial. Al mismo tiempo se articularon y fortalecieron las alianzas con Unidad de Víctimas, la Cámara de comercio de Bucaramanga, SENA, la Alcaldía de Bucaramanga – IMEBU.</p>
+      </div>
+    </ion-card-content>
+  </ion-card>
+</ion-content>
