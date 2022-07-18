@@ -36,17 +36,16 @@ export class HomePage  implements OnInit {
   listProducts = []
   
 
- constructor( private carrouselService : CarrouselService, 
-              private navCtrl: NavController,
-              private productsService: ProductService,
-              private platform: Platform,
-              private nativeStorage: NativeStorage,
-              public router : Router) { 
- }
-
+ constructor( 
+  private carrouselService : CarrouselService, 
+  private navCtrl: NavController,
+  private productsService: ProductService,
+  private platform: Platform,
+  private nativeStorage: NativeStorage,
+  public router : Router) { 
+    console.log("entro aca constructor")
+  }
 ngOnInit(): void {
-
-
   this.platform.ready().then(()=>{
     this.loadDataInit()
     this.nativeStorage.getItem('userInfo').then(data =>{
@@ -54,8 +53,7 @@ ngOnInit(): void {
     }).catch(err =>{
       this.showLogin = true
     })
-  })
-    
+  })  
 }
 
   navLogin(){

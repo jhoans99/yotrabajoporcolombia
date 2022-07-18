@@ -35,7 +35,7 @@
       </ion-card>
       
       
-      <ion-title style="font-weight: bold; font-size: 1.2rem;">Medios de pago</ion-title>
+      <ion-title style="font-weight: bold; font-size: 1.2rem; color: #000; margin: 5%;">Medios de pago</ion-title>
       <ion-item class="box-item">
         <ion-label position="floating">Selecciona</ion-label>
         <ion-select >
@@ -43,7 +43,7 @@
         </ion-select>
       </ion-item>
 
-      <ion-title style="font-weight: bold; font-size: 1.2rem;">Medios de envio</ion-title>
+      <ion-title style="font-weight: bold; font-size: 1.2rem; color: #000; margin: 5%;">Medios de envio</ion-title>
       <ion-item class="box-item">
         <ion-label position="floating">Selecciona</ion-label>
         <ion-select >
@@ -51,9 +51,9 @@
         </ion-select>
       </ion-item>
 
-      <ion-title style="font-weight: bold; font-size: .8rem;">Contacto del vendedor</ion-title>
+      <ion-title style="font-weight: bold; font-size: .8rem; color: #000; margin: 5%;">Contacto del vendedor</ion-title>
       <ion-row>
-        <ion-col size="3"  *ngIf="showContactWhastapp">
+        <ion-col size="3"  *ngIf="showContactWhastapp" (click)="goToWhatsapp()">
           <img src="../../../assets/icons/whatsapp.svg" height="30rem" width="30rem"/>
         </ion-col>
         <ion-col size="3"  *ngIf="showContactFacebook">
@@ -66,6 +66,24 @@
           <img src="../../../assets/icons/twitter.svg" height="30rem" width="30rem"/>
         </ion-col>
       </ion-row>
+
+      <ion-title style="font-weight: bold; font-size: .8rem; margin: 5%;">Comentarios del producto</ion-title>
+
+      <ion-card *ngFor="let itemCooment of listComments" class="background-color-card">
+        <div>
+          <ion-item lines="none">
+            <img src="../../../assets/icons/man.png" slot="start" height="25rem" width="25rem" />
+            <ion-label style="color: #000;">{{itemCooment.nombre}} {{itemCooment.fecha}} </ion-label>
+          </ion-item>
+          <ion-label style="color: #000;">{{itemCooment.comentario}}</ion-label>
+        </div>
+      </ion-card>
+
+      <ion-item class="box-item">
+        <ion-input placeholder="Agregar un comentario" [(ngModel)]="addNewCommentStr"></ion-input>
+      </ion-item>
+
+      <ion-button (click)="addNewCommentStr">Agregar comentario</ion-button>
     </ion-card-content>
   </ion-card>
 

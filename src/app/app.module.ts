@@ -13,6 +13,7 @@ import { NativeStorage } from '@awesome-cordova-plugins/native-storage/ngx';
 import { HttpClient } from '@angular/common/http';
 import { Camera } from '@ionic-native/Camera/ngx';
 import { File } from '@ionic-native/file/ngx';
+import { ModalHistorySellerPageModule } from './modal-history-seller/modal-history-seller.module';
 
 
 @NgModule({
@@ -23,7 +24,8 @@ import { File } from '@ionic-native/file/ngx';
     AppRoutingModule,
     HttpClientModule,
     ReactiveFormsModule,
-    FormsModule],
+    FormsModule,
+    ModalHistorySellerPageModule],
   providers: [{ provide: RouteReuseStrategy, useClass: IonicRouteStrategy },
     HTTP,NativeStorage,HttpClient,Camera,
     File],

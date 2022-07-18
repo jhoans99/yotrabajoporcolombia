@@ -24,10 +24,6 @@ const routes: Routes = [
     loadChildren: () => import('./pages/profile/profile.module').then( m => m.ProfilePageModule)
   },
   {
-    path: 'seller-inventary',
-    loadChildren: () => import('./pages/seller-inventary/seller-inventary.module').then( m => m.SellerInventaryPageModule)
-  },
-  {
     path: 'upload-new-product',
     loadChildren: () => import('./pages/upload-new-product/upload-new-product.module').then( m => m.UploadNewProductPageModule)
   },
@@ -45,11 +41,15 @@ const routes: Routes = [
   },
   {
     path: 'all-products',
-    loadChildren: () => import('./page/all-products/all-products.module').then( m => m.AllProductsPageModule)
+    loadChildren: () => import('./pages/all-products/all-products.module').then( m => m.AllProductsPageModule)
   },
   {
-    path: 'all-products',
-    loadChildren: () => import('./pages/all-products/all-products.module').then( m => m.AllProductsPageModule)
+    path: 'inventory-seller',
+    loadChildren: () => import('./pages/inventory-seller/inventory-seller.module').then( m => m.InventorySellerPageModule)
+  },
+  {
+    path: 'modal-history-seller',
+    loadChildren: () => import('./modal-history-seller/modal-history-seller.module').then( m => m.ModalHistorySellerPageModule)
   },
 ];
 

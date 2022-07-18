@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { NativeStorage } from '@awesome-cordova-plugins/native-storage/ngx';
+import { ToastController } from '@ionic/angular';
+import { CommentsService } from 'src/app/services/comments.service';
 import { UserInfoServiceService } from 'src/app/services/user-info-service.service';
 
 @Component({
@@ -31,22 +33,31 @@ export class DetailProductPage implements OnInit {
   showContactTwitter: boolean = false;
   showLogin: boolean = false;
   myCustomIcon = "/assets/icons/man.png";
+  listComments = [];
+  addNewCommentStr: string = "";
+  producInfo: any;
+  userInfo:any;
 
 
   constructor(
     public activatedRoute : ActivatedRoute,
     public userInforService: UserInfoServiceService,
-    public nativeStorage: NativeStorage
+    public nativeStorage: NativeStorage,
+    public commentsService: CommentsService,
+    public toast: ToastController
   ) { }
 
   ngOnInit() {
      this.activatedRoute.queryParams.subscribe((res)=>{
       console.log(JSON.stringify(res));
+      this.productInfo = res
       this.loadItems(res)
+      this.loadCommentsProduct(res)
     });
 
     this.nativeStorage.getItem('userInfo').then(data =>{
       this.showLogin = false
+      this.userInfo = data
    }).catch(err =>{
      this.showLogin = true
    })
@@ -78,4 +89,40 @@ export class DetailProductPage implements OnInit {
     this.typeSend = item.medios_envio
   }
 
+  loadCommentsProduct(item: any){
+    this.listComments = []
+    let data = {
+      "type": 2,
+      "productId": item.id,
+      "userIdSeller": item.userId
+    }
+    this.commentsService.consultCoomentsForProduct(data).subscribe((data: any)=>{       
+      if(data.mensaje == "SI HAY COMENTARIOS"){
+        console.log("Comentarios"+JSON.stringify(data.info))
+        this.listComments = data.info
+      }
+    })
+  }
+
+  addNewComment(){
+    let data = {
+      "type": 1,
+      "userId": this.userInfo.id,
+      "userIdSeller": this.producInfo.userId,
+      "productId": this.producInfo.id,
+      "comentario": this.addNewCommentStr,
+      "ciudad": this.userInfo.ciudad,
+      "nombre": this.userInfo.name,
+      "fecha": new Date().getDate()
+    }
+    this.commentsService.addNewCommentForProduct(data).subscribe((data: any) =>{
+      if(data.mensaje == "SE SUBIO EXITOSAMENTE"){
+        this.loadCommentsProduct(this.producInfo)
+      } 
+    })
+  }
+
+  goToWhatsapp(){
+    window.open(`https://api.whatsapp.com/send?phone=57${this.contactWhastapp}`)
+  }
 }

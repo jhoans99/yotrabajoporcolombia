@@ -1,0 +1,24 @@
+<ion-header [translucent]="true" >
+  <ion-toolbar class="new-background-color">
+    <ion-item class="new-background-color">
+      <img src="../../assets/icons/yo-trabajo-blanco.png" style="display:inline-block" height="80rem" width="120rem"/>  
+      <ion-fab-button size="small" class="ion-fab" slot="end" ><ion-icon name="search"></ion-icon></ion-fab-button>
+      <ion-fab-button size="small" class="ion-fab" *ngIf="showLogin" routerLink="/login" slot="end"> <ion-icon name="person"></ion-icon></ion-fab-button>
+      <ion-fab-button size="small"  *ngIf="!showLogin" routerLink="/profile" slot="end"> <img [src]="myCustomIcon" /></ion-fab-button>
+    </ion-item>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <ion-row>
+    <ion-col size="6">
+      <ion-title>Mis productos</ion-title>
+    </ion-col>
+    <ion-col size="6" routerLink="/upload-new-product">
+      <ion-button>Añadir productos</ion-button>
+    </ion-col>
+  </ion-row>
+  
+
+</ion-content>

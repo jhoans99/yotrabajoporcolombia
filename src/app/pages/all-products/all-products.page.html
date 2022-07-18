@@ -9,23 +9,22 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content>
-  <ion-slides  style="height: 40%; width: 100% !important; min-width: 100% !important;" >
-    <ion-slide *ngFor="let item of listProducts"  (click)="goToDetailProduct(item)">
-    <ion-card style="background: white !important;">
+<ion-content class="ion-padding">
+    <ion-card style="background: white !important;"  *ngFor="let item of listProducts"  (click)="goToDetailProduct(item)">
       <ion-card-content>
         <ion-slides>
           <ion-slide *ngFor="let itemImg of item.imagenes">
-            <img src="http://{{itemImg}}"  style="max-height: 15rem; width: 100%; display: block;"/>
+            <img src="http://{{itemImg}}"  style="max-height: 10rem; width: 100%; display: block;"/>
           </ion-slide>
         </ion-slides>
         <div>
+          <ion-row class="ion-padding" >
+            <ion-label style="font-weight: bold; text-align: center; font-size:larger;">{{item.nombre}}</ion-label>
+          </ion-row>
           <ion-row class="ion-padding">
-            <ion-label style="font-weight: bold;">${{item.precio}}</ion-label>
+            <ion-label style="font-weight: bold; color: #153f72; text-align: center; font-size: large;">${{item.precio}}</ion-label>
           </ion-row>
         </div>
       </ion-card-content>
     </ion-card>
-  </ion-slide>
-</ion-slides>
 </ion-content>

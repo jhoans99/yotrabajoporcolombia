@@ -104,13 +104,13 @@
 </ion-grid>
 
 <ion-grid>
-  <ion-row>
+  <ion-row style="width: 100% !important; min-width: 100% !important; max-width: 100%;">
     <ion-col size="12" class="ion-no-padding">
       <ion-card style="max-width: 10rem;" class="background-color-card">
         <ion-card-content style="color: white; font-weight: bold;">Accesios</ion-card-content>
       </ion-card>
-      <div style="width: 100% !important; min-width: 100%;">
-        <ion-slides  style="height: 40%; width: 100% !important; min-width: 100% !important;" >
+      <div style="width: 100% !important; min-width: 100% !important; max-width: 100%;">
+        <ion-slides  style="height: 40%; width: 100% !important; min-width: 100% !important; max-width: 100%;" >
             <ion-slide *ngFor="let item of listProductsAccessories" (click)="goToDetailProduct(item)">
             <ion-card style="background: white !important;">
               <ion-card-content>
@@ -139,13 +139,13 @@
       </div>
     </ion-col>
   </ion-row>
-  <ion-row>
+  <ion-row style="width: 100% !important; min-width: 100% !important; max-width: 100%;">
     <ion-col size="12" text-center class="ion-no-padding">
       <ion-card style="max-width: 10rem;" class="background-color-card">
         <ion-card-content style="color: white; font-weight: bold;">Alimentos</ion-card-content>
       </ion-card>
-      <div style="width: 100% !important; min-width: 100%;">
-        <ion-slides  style="height: 40%; width: 100% !important; min-width: 100% !important;" >
+      <div style="width: 100% !important; min-width: 100% !important; max-width: 100%;">
+        <ion-slides  style="height: 40%; width: 100% !important; min-width: 100% !important; max-width: 100%;" >
             <ion-slide *ngFor="let item of listProductsFood" (click)="goToDetailProduct(item)">
             <ion-card style="background: white !important;">
               <ion-card-content>
@@ -174,13 +174,13 @@
       </div>
     </ion-col>
   </ion-row>
-  <ion-row>
+  <ion-row style="width: 100% !important; min-width: 100% !important; max-width: 100%;">
     <ion-col size="12" text-center class="ion-no-padding">
       <ion-card style="max-width: 10rem;" class="background-color-card">
         <ion-card-content style="color: white; font-weight: bold;">Hogar</ion-card-content>
       </ion-card>
-      <div style="width: 100% !important; min-width: 100%;">
-        <ion-slides  style="height: 40%; width: 100% !important; min-width: 100% !important;" >
+      <div style="width: 100% !important; min-width: 100% !important; max-width: 100%;">
+        <ion-slides  style="height: 40%; width: 100% !important; min-width: 100% !important; max-width: 100%;" >
             <ion-slide *ngFor="let item of listProductsHome" (click)="goToDetailProduct(item)">
             <ion-card style="background: white !important;">
               <ion-card-content>
@@ -210,19 +210,19 @@
       </div>
     </ion-col>
   </ion-row>
-    <ion-row>
+    <ion-row style="width: 100% !important; min-width: 100% !important; max-width: 100%;">
       <ion-col size="12" text-center class="ion-no-padding">
         <ion-card style="max-width: 10rem;" class="background-color-card">
           <ion-card-content style="color: white; font-weight: bold;">Ropa</ion-card-content>
         </ion-card>
-        <div style="width: 100% !important; min-width: 100%;">
-          <ion-slides  style="height: 40%; width: 100% !important; min-width: 100% !important;" >
+        <div style="width: 100%!important; min-width: 100% !important; max-width: 100%;">
+          <ion-slides  style="height: 40%; width: 100% !important; min-width: 100% !important; max-width: 100% !important;" >
               <ion-slide *ngFor="let item of listProductsClothes" (click)="goToDetailProduct(item)">
               <ion-card style="background: white !important;">
                 <ion-card-content>
                   <ion-slides>
                     <ion-slide *ngFor="let itemImg of item.imagenes">
-                      <img src="http://{{itemImg}}" style="max-height: 15rem; width: 100%; display: block;"/>
+                      <img src="http://{{itemImg}}" style="max-height: 15rem; width: 100% !important; min-width: 100% !important; max-width: 100% !important; display: block;"/>
                     </ion-slide>
                   </ion-slides>
                   <div>

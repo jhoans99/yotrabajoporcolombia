@@ -4,17 +4,17 @@ import { FormsModule } from '@angular/forms';
 
 import { IonicModule } from '@ionic/angular';
 
-import { SellerInventaryPageRoutingModule } from './seller-inventary-routing.module';
+import { InventorySellerPageRoutingModule } from './inventory-seller-routing.module';
 
-import { SellerInventaryPage } from './seller-inventary.page';
+import { InventorySellerPage } from './inventory-seller.page';
 
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    SellerInventaryPageRoutingModule
+    InventorySellerPageRoutingModule
   ],
-  declarations: [SellerInventaryPage]
+  declarations: [InventorySellerPage]
 })
-export class SellerInventaryPageModule {}
+export class InventorySellerPageModule {}

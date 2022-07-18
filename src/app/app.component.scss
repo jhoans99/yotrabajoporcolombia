@@ -3,3 +3,19 @@
 ion-tab-bar, ion-tab-button{
     background-color: #153f72;
 }
+
+.always-modal .modal-wrapper{
+    background: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 100%;
+    left: unset !important;
+    top: unset !important;
+    .ion-page{
+        margin:0 auto;
+        position: relative;
+        top: 20vh !important;
+        width: 100%;
+        height: 100%;
+  
+    }
+  }

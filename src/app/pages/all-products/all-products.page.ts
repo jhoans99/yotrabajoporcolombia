@@ -20,12 +20,17 @@ export class AllProductsPage implements OnInit {
     private router: Router
   ) { }
 
+
+  
+
   ngOnInit() {
     this.nativeStorage.getItem('userInfo').then(data =>{
       this.showLogin = false
    }).catch(err =>{
      this.showLogin = true
    })
+
+   this.consultProducts()
   }
 
   consultProducts(){
@@ -40,7 +45,7 @@ export class AllProductsPage implements OnInit {
   }
 
   goToDetailProduct(item: any){
-    //this.navCtrl.navigateForward('/detail-product')
+    
     this.router.navigate(['/detail-product'],{
       queryParams: item
     });

@@ -51,7 +51,7 @@
     </ion-row>
     <ion-row *ngIf="showInventary">
       <ion-col>
-        <ion-card routerLink="/upload-new-product">
+        <ion-card (click)="goToInventarySeller()">
           <ion-item > 
             <img src="../../../assets/icons/inventario.png" slot="start"  height="40vh" width="40vw"/>
             <ion-label>Inventario <br> Manten al día tus productos y mejora tus ventas</ion-label>
