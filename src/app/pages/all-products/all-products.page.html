@@ -10,7 +10,19 @@
 </ion-header>
 
 <ion-content class="ion-padding">
-    <ion-card style="background: white !important;"  *ngFor="let item of listProducts"  (click)="goToDetailProduct(item)">
+    <div>
+      <ion-item class="box-item">
+        <ion-label  position="floating">Filtrar por categroia</ion-label>
+        <ion-select (ionChange)="filterList()"
+        [(ngModel)]="filterCategoria">
+          <ion-select-option *ngFor="let item of listCategories" value="{{item.name}}">{{item.name}}</ion-select-option>
+        </ion-select>
+      </ion-item>
+    </div>
+    <div>
+      <ion-label (click)="cleanFilter()">Limpiar filtro</ion-label>
+    </div>
+    <ion-card style="background: white !important; margin-top: 3rem;"  *ngFor="let item of listProducts"  (click)="goToDetailProduct(item)">
       <ion-card-content>
         <ion-slides>
           <ion-slide *ngFor="let itemImg of item.imagenes">

@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { Router } from '@angular/router';
 import { LoginService } from 'src/app/services/login.service';
 
 @Component({
@@ -16,7 +17,8 @@ export class RegisterUserPage implements OnInit {
 
   constructor(
     public fb: FormBuilder,
-    private loginService : LoginService
+    private loginService : LoginService,
+    private router: Router
   ) { }
 
   ngOnInit() {
@@ -36,7 +38,9 @@ export class RegisterUserPage implements OnInit {
       urlFacebook: [''],
       urlInstragram: [''],
       urlTwitter: [''],
-      acceptTerms: [false,Validators.requiredTrue]
+      program: [''],
+      acceptTerms: [false,Validators.requiredTrue],
+
     });
   }
 
@@ -63,9 +67,9 @@ export class RegisterUserPage implements OnInit {
     this.loginService.postRegister(datasend).then(data =>{
       let response = JSON.parse(data.data)
       if(response.mensaje == "SE REGISTRO EXITOSAMENTE EL USUARIO"){
-          //TODO: REDIRECT TO LOGIN
+          this.router.navigate(['/login'])          
       }else{
-          //TODO: REDIRECT TO HOME
+          this.router.navigate(['/home'])          
       }
     }).catch(err =>{
       console.log("Form",err)

@@ -55,4 +55,10 @@ export class ProfilePage implements OnInit {
       }
     })
   }
+
+  closeSession(){
+    this.nativeStorage.remove('userInfo').then(()=>{
+      this.router.navigate(['/home'])  
+    })
+  }
 }

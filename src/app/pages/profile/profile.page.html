@@ -59,6 +59,17 @@
         </ion-card>
       </ion-col>
     </ion-row>
+
+    <ion-row *ngIf="showInventary">
+      <ion-col>
+        <ion-card (click)="goToInventarySeller()">
+          <ion-item > 
+            <ion-icon name="exit-outline" slot="start" style="height: 40vh; width: 40vw;"></ion-icon>
+            <ion-label>Cerrar sesión</ion-label>
+          </ion-item>
+        </ion-card>
+      </ion-col>
+    </ion-row>
   </ion-grid>
 
 </ion-content>

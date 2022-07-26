@@ -24,8 +24,18 @@
       <ion-card style="background: #153f72 !important; color: white !important; text-align: center !important;">Envio con normalidad</ion-card>
       <p>{{producDescription}}</p>
       <ion-card>
-
       </ion-card>
+
+      <div>
+        <ion-row>
+          <ion-icon color="primary" *ngFor="let item of list;let i = index" [name]="condition <= i? 'star-outline' :'star' "
+          (click)="review(i)">
+          </ion-icon>
+        </ion-row>
+        <ion-row>
+          <ion-button (click)="sendRaiting()">Calificame</ion-button>
+        </ion-row>
+      </div>
 
       <ion-card>
         <ion-item>

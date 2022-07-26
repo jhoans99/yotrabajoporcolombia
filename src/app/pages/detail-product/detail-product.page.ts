@@ -3,6 +3,7 @@ import { ActivatedRoute } from '@angular/router';
 import { NativeStorage } from '@awesome-cordova-plugins/native-storage/ngx';
 import { ToastController } from '@ionic/angular';
 import { CommentsService } from 'src/app/services/comments.service';
+import { RaitingService } from 'src/app/services/raiting.service';
 import { UserInfoServiceService } from 'src/app/services/user-info-service.service';
 
 @Component({
@@ -38,13 +39,16 @@ export class DetailProductPage implements OnInit {
   producInfo: any;
   userInfo:any;
 
+  condition: number = 0;
+  list: any[] = new Array(5);
 
   constructor(
     public activatedRoute : ActivatedRoute,
     public userInforService: UserInfoServiceService,
     public nativeStorage: NativeStorage,
     public commentsService: CommentsService,
-    public toast: ToastController
+    public toast: ToastController,
+    public raitingService: RaitingService
   ) { }
 
   ngOnInit() {
@@ -102,6 +106,22 @@ export class DetailProductPage implements OnInit {
         this.listComments = data.info
       }
     })
+  }
+
+  
+  review(i) {
+   this.condition = i + 1;
+  }
+
+  sendRaiting(){
+    let dataJson = {
+      userIdSeller : this.producInfo.userId,
+      productId:  this.producInfo.id,
+      calificacion : this.condition,
+      userId : this.userInfo.id
+    }
+
+    this.raitingService.postSendRaiting(dataJson)
   }
 
   addNewComment(){

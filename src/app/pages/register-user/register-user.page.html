@@ -75,12 +75,23 @@
             <ion-input type="password" name="urlTwitter" id="urlTwitter" formControlName="urlTwitter"  autocapitalize="none" ></ion-input>
           </ion-item>
         </div>
+        <ion-label>¿A cual programa pertece?</ion-label>
+        <div>
+          <ion-item lines="none" class="remember-password" >
+            <ion-label>Yo trabajo por Colombia</ion-label>   
+            <ion-checkbox slot="start" formControlName="program" color="primary" mode="ios"  ></ion-checkbox>
+          </ion-item>
+          <ion-item lines="none" class="remember-password" >
+            <ion-label>Somos rurales</ion-label>   
+            <ion-checkbox slot="start" formControlName="program" color="primary" mode="ios"  ></ion-checkbox>
+          </ion-item>
+        </div>
       </div>
     <ion-col col-12 >
       <div style="float: right !important; margin-top: 10%;">
         <ion-item lines="none" class="remember-password" >
           <ion-label slot="end">Terminos y condiciones</ion-label>   
-          <ion-checkbox  color="primary" mode="ios"  ></ion-checkbox>
+          <ion-checkbox  color="primary" mode="ios" formControlName="acceptTerms" ></ion-checkbox>
         </ion-item>
       </div>
     </ion-col> 

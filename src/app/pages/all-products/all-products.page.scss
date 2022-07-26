@@ -1,6 +1,9 @@
 .new-background-color{
+  --background: #153f72 !important;
+}
 
-    //--background:url(../../assets/icons/cenefa.png)  no-repeat 100% center/cover;
-    
-    --background: #153f72 !important;
-  }
+.box-item{
+    border: 0.5px solid #363f4d !important;
+    border-radius: 1rem !important;
+    margin-top: 5% !important;
+}
