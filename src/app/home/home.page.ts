@@ -114,6 +114,7 @@ ngOnInit(): void {
   getCarrousel(){
     this.carrouselService.getCarrosuel().then(data =>{
       let response = JSON.parse(data.data)
+      console.log(JSON.stringify(response))
       response.forEach(element => {
         this.listCarrousel.push({
           title : element.titulo,

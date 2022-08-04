@@ -1,9 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { Camera, CameraOptions } from '@ionic-native/Camera/ngx';
-import { ActionSheetController } from '@ionic/angular';
+import { ActionSheetController, ToastController } from '@ionic/angular';
 import { File } from '@ionic-native/file/ngx';
 import { UploadProductsService } from 'src/app/services/upload-products.service';
+import { NativeStorage } from '@awesome-cordova-plugins/native-storage/ngx';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-upload-new-product',
@@ -15,11 +17,13 @@ export class UploadNewProductPage implements OnInit {
   showListSelectedImage: boolean = false
   public form: FormGroup;
   croppedImagepath = "";
+  userId = "";
   listOptionCategories = [];
   listOptionWayToSend = [];
   listOptionPaymentMethod = [];
   listCities = [];
   listSelectedImage = [];
+  private myToast: any;
 
   listDiscount = [
     {
@@ -117,7 +121,10 @@ export class UploadNewProductPage implements OnInit {
     public actionSheetController: ActionSheetController,
     private file: File,
     public fb: FormBuilder,
-    public uploadProductService: UploadProductsService
+    public uploadProductService: UploadProductsService,
+    public nativeStorage: NativeStorage,
+    public toast: ToastController,
+    public router: Router
   ) { }
 
   ngOnInit() {
@@ -136,6 +143,13 @@ export class UploadNewProductPage implements OnInit {
     this.loadPaymentMethod()
     this.loadCities()
     this.loadWayToSend()
+
+    this.nativeStorage.getItem('userInfo').then(data =>{
+       this.userId = data.id
+    }).catch(err =>{
+       
+    })
+ 
   }
 
   pickImage(sourceType) {
@@ -147,7 +161,6 @@ export class UploadNewProductPage implements OnInit {
       mediaType: this.camera.MediaType.PICTURE
     }
     this.camera.getPicture(options).then((imageData) => {
-      // imageData is either a base64 encoded string or a file URI
       this.croppedImagepath = 'data:image/jpeg;base64,' + imageData;
       this.listSelectedImage.push({
         nombre: "",
@@ -197,17 +210,23 @@ export class UploadNewProductPage implements OnInit {
     let dataToSend = {
       name : this.form.value.name,
       price : this.form.value.price,
-      typeShipping : listTypeShipping ,
+      typeShipping : listTypeShipping,
       city: this.form.value.city,
       description: this.form.value.description,
       typePayment: listTypePayment,
       categories: listCategories,
       priceToSend: this.form.value.price_to_send,
       discount: this.form.value.discount,
-      files : this.listSelectedImage
+      files : this.listSelectedImage,
+      idUser: this.userId
     }
-
-    console.log(JSON.stringify(dataToSend))
+    
+    this.uploadProductService.postUploadProduct(dataToSend).subscribe((data:any) =>{
+      if(data.mensaje == "SE SUBIO EXITOSAMENTE"){
+        this.showToast()
+      }
+    })
+    
   }
 
   loadCategories(){
@@ -245,5 +264,20 @@ export class UploadNewProductPage implements OnInit {
   validateSelectedImage(): boolean{
     return this.listSelectedImage.length > 0
   }
+
+  showToast() {
+    this.myToast = this.toast.create({
+      message: 'Ionic Auto Hide Toast on Bottom',
+      duration: 2000
+    }).then((toastData) => {
+      console.log(toastData);
+      toastData.present();
+    }); 
+    
+    this.toast.dismiss().then(()=>{
+      this.router.navigate(['/home'])
+    })
+  }
+  
 
 }
