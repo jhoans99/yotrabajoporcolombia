@@ -26,7 +26,7 @@
 
       <ion-item class="box-item">
         <ion-label  position="floating">Categoria del producto</ion-label>
-        <ion-select formControlName="category"  multiple="true">
+        <ion-select formControlName="category" >
           <ion-select-option *ngFor="let item of listOptionCategories" value="{{item.categoria}}">{{item.categoria}}</ion-select-option>
         </ion-select>
       </ion-item>
@@ -75,7 +75,7 @@
         </ion-slides>
     </ion-col> 
     </ion-row>
-    <ion-row>
+    <ion-row style="margin-top: 10%;">
       <ion-col size="12" class="ion-text-center">
         <ion-button type="submit"   text-center>Subir producto</ion-button>
       </ion-col>

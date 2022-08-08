@@ -38,18 +38,22 @@ export class UploadProductsService {
       "id": "",
       "userId": data.idUser,
       "nombre": data.name,
-      "tipo_envio": "Normal",
+      "tipo_envio": "Envio con normalidad",
+      "envio": data.typeShipping,
       "precio": data.price,
-      "categorias": data.categories,
+      //"categorias": data.categories,
+      "categorias": "Hogar",
       "resenas": "",
       "ciudad": data.city,
       "descripcion": data.description,
       "valor_envio": data.priceToSend,
       "descuento": data.discount,
-      "archivo": imagenes,
-      "eliminat": false,
-      "medios": data.typeShipping
+      "eliminar": 0,
+      "medios": data.typePayment,
+      "archivo": imagenes
     }
+    
+    console.log("Data to server"+ JSON.stringify(dataJson))
     return this.httpAngular.post('http://servicios.yotrabajoporcolombiaprueba.site/upload_product2.php',dataJson,{})
   }
 

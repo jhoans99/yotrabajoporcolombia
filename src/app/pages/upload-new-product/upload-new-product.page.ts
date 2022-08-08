@@ -220,8 +220,11 @@ export class UploadNewProductPage implements OnInit {
       files : this.listSelectedImage,
       idUser: this.userId
     }
+
+  
     
     this.uploadProductService.postUploadProduct(dataToSend).subscribe((data:any) =>{
+      console.log("Response Json"+JSON.stringify(data))
       if(data.mensaje == "SE SUBIO EXITOSAMENTE"){
         this.showToast()
       }
@@ -267,7 +270,7 @@ export class UploadNewProductPage implements OnInit {
 
   showToast() {
     this.myToast = this.toast.create({
-      message: 'Ionic Auto Hide Toast on Bottom',
+      message: 'Producto subido con exito',
       duration: 2000
     }).then((toastData) => {
       console.log(toastData);
